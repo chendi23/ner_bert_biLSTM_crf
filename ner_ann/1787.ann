@@ -1,0 +1,14 @@
+T1	Media 0 3	新华社
+T2	GPE 3 7	耶路撒冷
+T3	Time 7 12	7月16日
+T4	Person 16 19	陈文仙
+T5	Person 20 22	杜震
+T6	BD 23 29	以色列国防军
+T7	Time 29 32	16日
+T8	BD 38 40	以军
+T9	Time 42 46	当天下午
+T10	Location 51 55	加沙地带
+T11	Country 60 64	巴勒斯坦
+T12	Org 64 71	伊斯兰抵抗运动
+T13	Org 72 75	哈马斯
+T14	Quantity 77 79	两个

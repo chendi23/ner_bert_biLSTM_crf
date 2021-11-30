@@ -1,0 +1,11 @@
+T1	Country 0 3	俄罗斯
+T2	Org 3 8	克里姆林宫
+T3	Org 8 11	新闻局
+T4	Time 11 14	19日
+T5	Person 20 22	普京
+T6	Country 25 26	俄
+T7	Country 26 27	乌
+T8	GPE 29 34	罗斯托夫州
+T9	GPE 35 41	别尔哥罗德州
+T10	GPE 42 47	布良斯克州
+T11	BD 52 54	俄军

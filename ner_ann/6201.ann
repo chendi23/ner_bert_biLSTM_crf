@@ -1,0 +1,12 @@
+T1	Org 0 2	白宫
+T2	Org 2 8	副总统办公室
+T3	Time 8 10	3日
+T4	Person 14 16	拜登
+T5	Time 20 24	9月5日
+T6	GPE 26 30	佛罗里达
+T7	GPE 40 43	华盛顿
+T8	Person 45 48	奥巴马
+T9	Org 54 56	白宫
+T10	Org 61 63	国会
+T11	Job 63 65	议员
+T12	Country 68 71	叙利亚

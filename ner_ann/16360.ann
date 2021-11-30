@@ -1,0 +1,12 @@
+T1	BD 8 10	美军
+T2	BD 10 15	太平洋总部
+T3	Job 15 17	司令
+T4	Person 17 19	基廷
+T5	Job 19 21	上将
+T6	Country 31 33	美国
+T7	Country 35 37	中国
+T8	Location 38 41	亚丁湾
+T9	Country 49 50	中
+T10	Country 64 65	中
+T11	BD 65 67	美军
+T12	Quantity 71 73	一个

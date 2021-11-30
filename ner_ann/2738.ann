@@ -1,0 +1,14 @@
+T1	Media 0 3	中新社
+T2	GPE 3 6	华盛顿
+T3	Time 6 11	5月16日
+T4	Person 17 20	德永健
+T5	Org 21 25	五角大楼
+T6	Time 25 28	16日
+T7	Quantity 33 36	第二代
+T8	ZB_other 36 43	宙斯盾反导系统
+T9	ZB_gun 46 55	标准-3型制导导弹
+T10	Country 56 58	美国
+T11	Org 58 63	导弹防御局
+T12	BD 64 66	海军
+T13	ZB_ocean 66 75	“伊利湖号”巡洋舰
+T14	Quantity 79 81	一次

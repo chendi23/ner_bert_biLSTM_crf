@@ -1,0 +1,9 @@
+T1	BD 1 4	自卫队
+T2	ZB_air 4 12	E-767预警机
+T3	ZB_other 15 25	AN/APY-2雷达
+T4	Quantity 30 35	800千米
+T5	Country 40 42	中国
+T6	ZB_air 42 51	“空警”-2000
+T7	Quantity 57 62	470千米
+T8	Country 66 68	日本
+T9	BD 68 73	航空自卫队

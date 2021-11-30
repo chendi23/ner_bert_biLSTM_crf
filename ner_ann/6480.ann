@@ -1,0 +1,17 @@
+T1	Quantity 2 5	第一个
+T2	Country 8 10	日本
+T3	Org 10 13	防卫省
+T4	Country 22 24	日本
+T5	BD 24 29	海上自卫队
+T6	BD 30 35	陆上自卫队
+T7	GPE 48 52	鹿儿岛县
+T8	Location 59 62	马毛岛
+T9	BD 64 69	海上自卫队
+T10	GPE 71 75	鹿儿岛县
+T11	ZBGC 75 83	鹿屋航空军事基地
+T12	ZB_air 84 91	P-3C侦察机
+T13	BD 92 97	空中自卫队
+T14	GPE 99 102	宫崎县
+T15	ZBGC 102 109	新田原军事基地
+T16	ZB_air 110 114	F-15
+T17	Location 118 121	马毛岛

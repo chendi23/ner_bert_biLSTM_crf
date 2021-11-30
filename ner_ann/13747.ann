@@ -1,0 +1,14 @@
+T1	Country 10 11	俄
+T2	Job 11 13	外长
+T3	Person 13 17	拉夫罗夫
+T4	Country 18 19	美
+T5	Job 19 22	国务卿
+T6	Person 22 24	克里
+T7	GPE 24 26	柏林
+T8	Person 40 42	克里
+T9	Job 44 47	国务卿
+T10	Country 50 51	俄
+T11	Country 51 52	美
+T12	Quantity 52 54	两国
+T13	Org 54 57	外交部
+T14	Quantity 60 62	首次

@@ -1,0 +1,12 @@
+T1	BD 0 4	武警部队
+T2	Job 4 8	副司令员
+T3	Person 8 11	薛国强
+T4	Country 16 18	中国
+T5	BD 18 22	反恐部队
+T6	Quantity 27 29	一支
+T7	BD 32 36	武警部队
+T8	Quantity 38 40	4级
+T9	BD 67 72	雪豹突击队
+T10	BD 73 80	反劫机特种大队
+T11	GPE 82 84	上海
+T12	BD 85 89	猎豹中队

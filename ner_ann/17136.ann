@@ -1,0 +1,11 @@
+T1	Quantity 3 5	两个
+T2	Quantity 18 20	两架
+T3	ZB_air 20 22	直8
+T4	Quantity 42 44	2架
+T5	ZB_air 44 46	直8
+T6	Quantity 48 50	4架
+T7	ZB_air 50 52	直9
+T8	ZB_ocean 58 61	071
+T9	ZB_gun 72 78	76mm舰炮
+T10	Quantity 92 94	4座
+T11	ZB_gun 94 100	630近防炮

@@ -1,0 +1,15 @@
+T1	BD 0 2	陆军
+T2	BD 2 9	第229航空团
+T3	BD 9 12	第1营
+T4	Job 12 15	指挥官
+T5	Person 15 21	约翰?戴维斯
+T6	Job 21 23	中校
+T7	Time 30 32	去年
+T8	Country 33 36	阿富汗
+T9	Quantity 44 48	20多架
+T10	Org 48 52	波音公司
+T11	ZB_air 55 69	AH-64E“阿帕奇”直升机
+T12	Quantity 72 75	15架
+T13	ZB_air 75 88	OH-58D“基奥瓦勇士”
+T14	Quantity 89 92	10架
+T15	ZB_air 92 105	UH-60M“黑鹰”直升机

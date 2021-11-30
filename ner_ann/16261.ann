@@ -1,0 +1,12 @@
+T1	BD 0 2	海军
+T2	BD 2 6	机动战团
+T3	BD 10 16	第七机动战团
+T4	Country 20 22	韩国
+T5	BD 22 24	海军
+T6	Quantity 27 29	一艘
+T7	Quantity 29 34	7600吨
+T8	ZB_ocean 40 45	世宗大王舰
+T9	ZB_ocean 50 55	文武大王舰
+T10	ZB_ocean 58 65	忠武公李舜臣舰
+T11	Quantity 67 69	6艘
+T12	Quantity 69 74	4500吨

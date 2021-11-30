@@ -1,0 +1,15 @@
+T1	ZB_gun 0 6	红旗-7导弹
+T2	Country 11 13	法国
+T3	ZB_gun 13 17	海响尾蛇
+T4	Time 18 23	1980年
+T5	Org 23 26	汤姆逊
+T6	Org 27 32	马特拉公司
+T7	Country 33 38	沙特阿拉伯
+T8	Quantity 41 43	一套
+T9	Country 64 66	法国
+T10	BD 66 68	海军
+T11	Time 78 83	1986年
+T12	ZB_gun 86 97	8S反导型海响尾蛇导弹
+T13	ZB_gun 101 104	8S型
+T14	ZB_other 114 118	8MS型
+T15	Quantity 124 126	8枚

@@ -1,0 +1,16 @@
+T1	GPE 0 1	台
+T2	BD 1 3	空军
+T3	Quantity 12 16	146架
+T4	Country 16 17	美
+T5	ZB_air 18 23	F-16A
+T6	ZB_air 24 33	BBlock20型
+T7	Quantity 34 38	126架
+T8	ZB_air 41 49	IDF“经国”号
+T9	Quantity 50 53	56架
+T10	Country 55 57	法国
+T11	ZB_air 58 66	幻影2000-5
+T12	Quantity 67 70	60架
+T13	Country 70 71	美
+T14	ZB_air 72 75	F-5
+T15	Quantity 77 81	400架
+T16	BD 104 106	台军

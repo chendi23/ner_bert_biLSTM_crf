@@ -1,0 +1,16 @@
+T1	Quantity 0 3	250
+T2	Quantity 4 7	500
+T3	Quantity 8 12	1500
+T4	Quantity 14 19	000kg
+T5	ZB_gun 19 27	3型低阻爆破炸弹
+T6	Country 28 30	中国
+T7	Country 72 74	中国
+T8	BD 74 75	空
+T9	BD 76 78	海军
+T10	ZB_air 80 83	H-5
+T11	ZB_air 84 87	H-6
+T12	ZB_air 88 91	Q-5
+T13	ZB_air 92 95	J-5
+T14	ZB_air 96 99	J-6
+T15	ZB_air 100 103	J-7
+T16	ZB_air 104 107	J-8

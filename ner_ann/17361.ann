@@ -1,0 +1,11 @@
+T1	Org 0 3	联合国
+T2	Org 3 10	全球经济监测部
+T3	Job 10 12	主任
+T4	Person 12 15	洪平凡
+T5	Time 15 17	1日
+T6	Media 20 23	新华社
+T7	Job 23 25	记者
+T8	Country 30 31	中
+T9	Country 31 32	美
+T10	Quantity 32 34	两国
+T11	Meeting 52 58	伦敦金融峰会

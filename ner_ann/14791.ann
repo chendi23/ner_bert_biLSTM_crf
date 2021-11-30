@@ -1,0 +1,13 @@
+T1	ZBGC 0 4	广州军区
+T2	Org 4 10	军训和兵种部
+T3	Job 10 12	部长
+T4	Person 12 15	陈维展
+T5	Quantity 26 28	一个
+T6	Quantity 39 41	一支
+T7	Quantity 50 52	一个
+T8	Quantity 61 63	一个
+T9	Quantity 84 86	三军
+T10	BD 92 93	陆
+T11	BD 94 95	海
+T12	BD 96 98	空军
+T13	Job 98 101	指挥员

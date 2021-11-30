@@ -1,0 +1,13 @@
+T1	ZB_ocean 0 7	508 西昌号
+T2	ZB_ocean 12 15	衡阳号
+T3	ZB_ocean 16 24	6601型护卫舰
+T4	Country 26 28	中国
+T5	BD 28 30	海军
+T6	ZB_ocean 41 49	6601型护卫舰
+T7	Time 54 61	1956年3月
+T8	GPE 62 64	上海
+T9	Org 64 69	沪东造船厂
+T10	Time 74 79	1958年
+T11	ZBGC 82 86	华东军区
+T12	BD 86 88	海军
+T13	ZB_ocean 103 106	衡阳舰

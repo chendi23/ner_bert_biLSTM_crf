@@ -1,0 +1,15 @@
+T1	Media 0 3	中新社
+T2	GPE 3 6	华盛顿
+T3	Time 6 12	10月16日
+T4	Person 18 21	张蔚然
+T5	Org 22 24	白宫
+T6	Time 24 27	16日
+T7	Country 30 32	美国
+T8	Job 32 34	总统
+T9	Person 34 37	奥巴马
+T10	Time 37 39	当天
+T11	Org 48 51	国防部
+T12	BD 53 58	国民警卫队
+T13	BD 59 64	预备役部队
+T14	Country 68 70	美国
+T15	Location 71 73	西非

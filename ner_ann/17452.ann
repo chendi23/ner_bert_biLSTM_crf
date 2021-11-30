@@ -1,0 +1,12 @@
+T1	Time 0 4	今年5月
+T2	Time 5 7	6月
+T3	Country 8 10	美国
+T4	Org 10 12	国会
+T5	Org 12 15	众议院
+T6	Org 16 19	参议院
+T7	Law 25 38	《2019年国防授权法案》
+T8	Country 47 48	美
+T9	GPE 48 49	台
+T10	Org 55 58	参议院
+T11	Country 65 67	美国
+T12	GPE 69 71	台湾

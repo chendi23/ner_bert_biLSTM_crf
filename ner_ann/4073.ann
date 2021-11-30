@@ -1,0 +1,16 @@
+T1	Time 0 9	12月12日14时
+T2	BD 12 14	印军
+T3	Quantity 20 22	2架
+T4	BD 22 24	巴军
+T5	ZB_air 24 31	F-104战机
+T6	Quantity 43 45	4架
+T7	BD 45 47	印军
+T8	ZB_air 47 54	米格-21战机
+T9	Quantity 61 63	2个
+T10	Quantity 74 76	一个
+T11	Person 84 93	巴拉特?卜山?桑尼
+T12	Job 93 95	上尉
+T13	BD 99 101	巴军
+T14	Job 101 103	中校
+T15	Person 103 108	米德克斯特
+T16	ZB_air 111 116	F-104

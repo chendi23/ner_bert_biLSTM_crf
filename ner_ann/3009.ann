@@ -1,0 +1,12 @@
+T1	Org 0 7	国家审计办公室
+T2	Country 10 11	澳
+T3	BD 11 13	海军
+T4	Quantity 25 27	3种
+T5	ZB_gun 39 46	MU90s鱼雷
+T6	ZB_air 47 62	AP-3C“猎户座”海上巡逻机
+T7	ZB_gun 66 72	MK46鱼雷
+T8	BD 74 76	海军
+T9	ZB_air 78 87	MH-60R直升机
+T10	Country 90 92	美国
+T11	Org 92 96	雷神公司
+T12	ZB_gun 97 103	MK54鱼雷

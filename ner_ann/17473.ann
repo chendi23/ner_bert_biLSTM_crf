@@ -1,0 +1,16 @@
+T1	Country 3 5	美国
+T2	Org 5 7	国会
+T3	Org 7 8	参
+T4	Org 8 9	众
+T5	Quantity 9 11	两院
+T6	Country 19 24	2010年
+T7	Org 38 39	参
+T8	Org 39 40	众
+T9	Quantity 40 42	两院
+T10	Time 42 45	3个月
+T11	Quantity 49 55	第1226款
+T12	GPE 58 60	台湾
+T13	BD 61 63	空军
+T14	Country 75 76	美
+T15	GPE 77 78	台
+T16	ZB_air 78 88	F-16C/D型战机

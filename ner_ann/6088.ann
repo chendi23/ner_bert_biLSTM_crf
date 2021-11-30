@@ -1,0 +1,15 @@
+T1	Country 0 1	俄
+T2	Org 1 9	社会政治研究中心
+T3	Job 9 11	主任
+T4	Person 11 24	弗拉基米尔?叶夫谢耶夫承认
+T5	BD 24 26	俄军
+T6	Country 36 37	乌
+T7	ZB_gun 49 61	陆基洲际导弹RS-20V
+T8	Org 62 64	北约
+T9	ZB_gun 65 74	SS-18“撒旦”
+T10	Country 78 81	乌克兰
+T11	Country 89 91	苏联
+T12	Quantity 103 106	10颗
+T13	Country 117 119	美国
+T14	Country 136 137	俄
+T15	Country 137 138	美

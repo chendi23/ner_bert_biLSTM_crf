@@ -1,0 +1,16 @@
+T1	Job 0 5	国家副主席
+T2	Person 5 8	习近平
+T3	Time 8 10	23
+T4	GPE 11 13	北京
+T5	Location 13 18	人民大会堂
+T6	Country 20 22	日本
+T7	GPE 22 25	静冈县
+T8	Job 25 27	知事
+T9	Person 27 31	石川嘉延
+T10	Person 35 38	胡锦涛
+T11	Job 38 40	主席
+T12	Country 41 42	日
+T13	Quantity 47 49	双方
+T14	Quantity 60 62	两国
+T15	Country 74 75	中
+T16	Country 75 76	日

@@ -1,0 +1,16 @@
+T1	ZB_ocean 2 7	“镇远”舰
+T2	Case 8 12	甲午海战
+T3	Person 17 19	陈悦
+T4	BD 25 29	北洋海军
+T5	Case 40 44	黄海海战
+T6	ZB_ocean 47 49	定远
+T7	ZB_ocean 52 54	镇远
+T8	Quantity 55 57	二舰
+T9	Time 81 93	1894年9月17日下午
+T10	Time 94 99	3时30分
+T11	ZB_ocean 101 103	镇远
+T12	Quantity 104 109	305毫米
+T13	Country 113 115	日本
+T14	ZB_ocean 118 120	松岛
+T15	Country 128 129	日
+T16	ZB_ocean 137 139	松岛

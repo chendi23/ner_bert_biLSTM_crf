@@ -1,0 +1,16 @@
+T1	Time 1 5	19日晚
+T2	Country 6 8	日本
+T3	Org 8 11	防卫省
+T4	Org 11 17	统合幕僚监部
+T5	BD 23 26	解放军
+T6	Time 26 28	当天
+T7	Quantity 30 32	6架
+T8	Quantity 37 39	4架
+T9	Quantity 49 51	1架
+T10	ZB_air 51 59	图―154电侦机
+T11	Quantity 60 62	1架
+T12	ZB_air 62 68	运―8电侦机
+T13	Location 73 77	宫古海域
+T14	GPE 81 83	台湾
+T15	Country 96 98	日本
+T16	BD 98 101	自卫队

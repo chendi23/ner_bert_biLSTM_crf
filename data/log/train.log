@@ -1,0 +1,1058 @@
+2021-11-08 13:37:43,707 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ['D:\\zcd\\PycharmProjects\\ner_try/data/tfrecords/train/2021_11_01_13_27_37.tfrecords']
+2021-11-08 13:37:43,707 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ['D:\\zcd\\PycharmProjects\\ner_try/data/tfrecords/valid/2021_11_01_13_27_46.tfrecords']
+2021-11-08 13:37:43,707 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep:0 is about to train
+2021-11-08 13:37:43,805 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-08 13:37:47,452 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-08 13:37:47,670 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-08 13:37:47,702 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-08 13:40:33,335 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ['D:\\zcd\\PycharmProjects\\ner_try/data/tfrecords/train/2021_11_01_13_27_37.tfrecords']
+2021-11-08 13:40:33,336 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ['D:\\zcd\\PycharmProjects\\ner_try/data/tfrecords/valid/2021_11_01_13_27_46.tfrecords']
+2021-11-08 13:40:33,336 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep:0 is about to train
+2021-11-08 13:40:33,435 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-08 13:40:36,436 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-08 13:40:36,648 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-08 13:40:36,678 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-08 13:40:36,691 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished
+2021-11-08 13:40:37,337 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - graph is initialized!
+2021-11-08 13:41:36,524 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ['D:\\zcd\\PycharmProjects\\ner_try/data/tfrecords/train/2021_11_01_13_27_37.tfrecords']
+2021-11-08 13:41:36,524 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ['D:\\zcd\\PycharmProjects\\ner_try/data/tfrecords/valid/2021_11_01_13_27_46.tfrecords']
+2021-11-08 13:41:36,524 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep:0 is about to train
+2021-11-08 13:41:36,624 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-08 13:41:39,729 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-08 13:41:39,934 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-08 13:41:39,963 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-08 13:41:39,976 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished
+2021-11-08 13:41:40,663 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - graph is initialized!
+2021-11-12 21:25:02,339 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ['D:\\zcd\\PycharmProjects\\ner_try/data/tfrecords/train/2021_11_01_13_27_37.tfrecords']
+2021-11-12 21:25:03,920 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ['D:\\zcd\\PycharmProjects\\ner_try/data/tfrecords/valid/2021_11_01_13_27_46.tfrecords']
+2021-11-12 21:25:06,111 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep:0 is about to train
+2021-11-12 21:25:18,080 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-12 21:25:36,838 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ['D:\\zcd\\PycharmProjects\\ner_try/data/tfrecords/train/2021_11_01_13_27_37.tfrecords']
+2021-11-12 21:25:36,839 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ['D:\\zcd\\PycharmProjects\\ner_try/data/tfrecords/valid/2021_11_01_13_27_46.tfrecords']
+2021-11-12 21:25:36,839 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep:0 is about to train
+2021-11-12 21:25:37,112 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-12 21:25:48,715 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-12 21:25:49,457 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-12 21:25:49,532 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-12 21:25:49,956 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished
+2021-11-12 21:31:09,854 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ['D:\\zcd\\PycharmProjects\\ner_try/data/tfrecords/train/2021_11_01_13_27_37.tfrecords']
+2021-11-12 21:31:09,855 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ['D:\\zcd\\PycharmProjects\\ner_try/data/tfrecords/valid/2021_11_01_13_27_46.tfrecords']
+2021-11-12 21:31:09,855 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep:0 is about to train
+2021-11-12 21:31:09,954 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-12 21:31:13,332 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-12 21:31:13,569 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-12 21:31:13,605 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-12 21:31:13,752 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished
+2021-11-12 21:31:13,776 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - graph is initialized!
+2021-11-12 21:39:36,108 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ['D:\\zcd\\PycharmProjects\\ner_try/data/tfrecords/train/2021_11_01_13_27_37.tfrecords']
+2021-11-12 21:39:36,109 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ['D:\\zcd\\PycharmProjects\\ner_try/data/tfrecords/valid/2021_11_01_13_27_46.tfrecords']
+2021-11-12 21:39:36,109 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep:0 is about to train
+2021-11-12 21:39:36,208 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-12 21:39:39,377 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-12 21:39:39,604 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-12 21:39:39,640 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-12 21:39:39,788 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished
+2021-11-12 21:39:39,811 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - graph is initialized!
+2021-11-12 21:40:42,792 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ['D:\\zcd\\PycharmProjects\\ner_try/data/tfrecords/train/2021_11_01_13_27_37.tfrecords']
+2021-11-12 21:40:42,792 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ['D:\\zcd\\PycharmProjects\\ner_try/data/tfrecords/valid/2021_11_01_13_27_46.tfrecords']
+2021-11-12 21:40:42,792 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep:0 is about to train
+2021-11-12 21:40:42,891 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-12 21:40:46,338 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-12 21:40:46,563 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-12 21:40:46,597 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-12 21:40:46,764 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished
+2021-11-12 21:40:46,796 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - graph is initialized!
+2021-11-12 22:06:14,068 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ['D:\\zcd\\PycharmProjects\\ner_try/data/tfrecords/train/2021_11_01_13_27_37.tfrecords']
+2021-11-12 22:06:14,069 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ['D:\\zcd\\PycharmProjects\\ner_try/data/tfrecords/valid/2021_11_01_13_27_46.tfrecords']
+2021-11-12 22:06:14,069 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep:0 is about to train
+2021-11-12 22:06:14,168 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-12 22:06:17,607 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-12 22:06:17,845 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-12 22:06:17,877 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-12 22:06:18,048 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished
+2021-11-12 22:06:18,069 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - graph is initialized!
+2021-11-17 20:02:37,031 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ['D:\\zcd\\PycharmProjects\\ner_try/data/tfrecords/train/2021_11_01_13_27_37.tfrecords']
+2021-11-17 20:02:37,049 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ['D:\\zcd\\PycharmProjects\\ner_try/data/tfrecords/valid/2021_11_01_13_27_46.tfrecords']
+2021-11-17 20:02:37,049 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep:0 is about to train
+2021-11-17 20:02:37,353 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-17 20:02:44,016 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-17 20:02:44,595 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-17 20:02:44,670 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-17 20:03:06,706 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - Tensor("crf_layer/ReverseSequence_1:0", shape=(20, 120), dtype=int32)
+2021-11-17 20:03:09,050 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished
+2021-11-17 20:04:12,100 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ['D:\\zcd\\PycharmProjects\\ner_try/data/tfrecords/train/2021_11_01_13_27_37.tfrecords']
+2021-11-17 20:04:12,100 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ['D:\\zcd\\PycharmProjects\\ner_try/data/tfrecords/valid/2021_11_01_13_27_46.tfrecords']
+2021-11-17 20:04:12,100 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep:0 is about to train
+2021-11-17 20:04:12,401 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-17 20:04:18,987 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-17 20:04:19,536 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-17 20:04:19,611 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-17 20:16:05,748 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-17 20:16:06,356 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-17 20:16:06,431 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-17 20:17:19,552 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-17 20:17:20,158 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-17 20:17:20,231 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-18 09:33:51,939 - D:\zcd\PycharmProjects\ner_try/data/log./train.log - DEBUG - biLSTM_fp_finished
+2021-11-18 09:33:52,013 - D:\zcd\PycharmProjects\ner_try/data/log./train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-18 09:38:59,948 - D:\zcd\PycharmProjects\ner_try/data/log./train.log - DEBUG - biLSTM_fp_finished
+2021-11-18 09:38:59,977 - D:\zcd\PycharmProjects\ner_try/data/log./train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-18 09:40:23,717 - D:\zcd\PycharmProjects\ner_try/data/log./train.log - DEBUG - biLSTM_fp_finished
+2021-11-18 09:40:23,744 - D:\zcd\PycharmProjects\ner_try/data/log./train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-18 09:43:00,577 - D:\zcd\PycharmProjects\ner_try/data/log./train.log - DEBUG - biLSTM_fp_finished
+2021-11-18 09:43:00,656 - D:\zcd\PycharmProjects\ner_try/data/log./train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-18 09:57:09,917 - D:\zcd\PycharmProjects\ner_try/data/log./train.log - DEBUG - biLSTM_fp_finished
+2021-11-18 09:57:09,946 - D:\zcd\PycharmProjects\ner_try/data/log./train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-18 10:01:51,344 - D:\zcd\PycharmProjects\ner_try/data/log./train.log - DEBUG - biLSTM_fp_finished
+2021-11-18 10:01:51,372 - D:\zcd\PycharmProjects\ner_try/data/log./train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-18 10:47:35,222 - D:\zcd\PycharmProjects\ner_try/data/log./train.log - DEBUG - biLSTM_fp_finished
+2021-11-18 10:47:35,295 - D:\zcd\PycharmProjects\ner_try/data/log./train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-18 10:56:20,120 - D:\zcd\PycharmProjects\ner_try/data/log./train.log - DEBUG - biLSTM_fp_finished
+2021-11-18 10:56:20,195 - D:\zcd\PycharmProjects\ner_try/data/log./train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-18 19:18:24,719 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-18 19:18:24,793 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-18 19:22:52,166 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 1264
+2021-11-18 19:22:52,203 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=0	 batch train loss=5196.25879	 batch_acc=0.00237	 recall=0.00327	 f1=0.00071
+2021-11-18 19:22:59,339 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 19:22:59,345 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=1	 batch train loss=2578.44434	 batch_acc=0.70509	 recall=0.03226	 f1=0.02668
+2021-11-18 19:23:06,470 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 19:23:06,477 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=2	 batch train loss=2665.93530	 batch_acc=0.72702	 recall=0.03448	 f1=0.02903
+2021-11-18 19:23:13,694 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 19:23:13,700 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=3	 batch train loss=2493.23877	 batch_acc=0.69853	 recall=0.03704	 f1=0.03046
+2021-11-18 19:23:20,964 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 19:23:20,969 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=4	 batch train loss=2575.71484	 batch_acc=0.65712	 recall=0.02564	 f1=0.02034
+2021-11-18 19:23:28,268 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 19:23:28,275 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=5	 batch train loss=2388.40967	 batch_acc=0.71144	 recall=0.02632	 f1=0.02188
+2021-11-18 19:23:35,582 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 19:23:35,588 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=6	 batch train loss=2643.69458	 batch_acc=0.63846	 recall=0.02941	 f1=0.02292
+2021-11-18 19:25:33,650 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-18 19:25:33,679 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-18 19:25:56,298 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 1500
+2021-11-18 19:25:56,304 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=0	 batch train loss=6359.16992	 batch_acc=0.00133	 recall=0.00190	 f1=0.00111
+2021-11-18 19:26:03,477 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 19:26:03,481 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=1	 batch train loss=2430.86133	 batch_acc=0.69702	 recall=0.02703	 f1=0.02220
+2021-11-18 19:26:10,708 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 19:26:10,713 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=2	 batch train loss=2889.74463	 batch_acc=0.70666	 recall=0.03030	 f1=0.02509
+2021-11-18 19:26:17,943 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 2
+2021-11-18 19:26:17,949 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=3	 batch train loss=3258.95215	 batch_acc=0.71774	 recall=0.03030	 f1=0.02534
+2021-11-18 19:26:25,212 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 19:26:25,219 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=4	 batch train loss=2651.06274	 batch_acc=0.66089	 recall=0.02857	 f1=0.02274
+2021-11-18 19:26:32,434 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 19:26:32,439 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=5	 batch train loss=2388.59912	 batch_acc=0.68968	 recall=0.02857	 f1=0.02332
+2021-11-18 19:26:39,675 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 239
+2021-11-18 19:26:39,681 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=6	 batch train loss=3530.38574	 batch_acc=0.58224	 recall=0.01848	 f1=0.01696
+2021-11-18 19:26:46,999 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 19:26:47,004 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=7	 batch train loss=2553.74951	 batch_acc=0.61789	 recall=0.03030	 f1=0.02315
+2021-11-18 19:26:54,217 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 19:26:54,221 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=8	 batch train loss=1693.53870	 batch_acc=0.72131	 recall=0.03448	 f1=0.02890
+2021-11-18 19:27:01,432 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 19:27:01,438 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=9	 batch train loss=2271.10596	 batch_acc=0.73202	 recall=0.03030	 f1=0.02561
+2021-11-18 19:27:08,681 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 19:27:08,685 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=10	 batch train loss=1926.30444	 batch_acc=0.71515	 recall=0.03448	 f1=0.02876
+2021-11-18 19:27:16,196 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 19:27:16,201 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=11	 batch train loss=1953.89966	 batch_acc=0.72325	 recall=0.02857	 f1=0.02398
+2021-11-18 19:27:23,629 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 19:27:23,634 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=12	 batch train loss=2317.53638	 batch_acc=0.63846	 recall=0.03226	 f1=0.02514
+2021-11-18 19:27:31,140 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 19:27:31,145 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=13	 batch train loss=2427.48242	 batch_acc=0.67313	 recall=0.03125	 f1=0.02514
+2021-11-18 19:27:38,488 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 19:27:38,493 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=14	 batch train loss=2219.70288	 batch_acc=0.67614	 recall=0.02857	 f1=0.02305
+2021-11-18 19:27:45,897 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 69
+2021-11-18 19:27:45,903 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=15	 batch train loss=3045.70093	 batch_acc=0.62809	 recall=0.02325	 f1=0.01900
+2021-11-18 19:40:02,730 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-18 19:40:02,759 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-18 19:40:24,830 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 1240
+2021-11-18 19:40:24,835 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=0	 batch train loss=5017.22754	 batch_acc=0.00403	 recall=0.00403	 f1=0.00403
+2021-11-18 19:40:31,889 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 5
+2021-11-18 19:40:31,895 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=1	 batch train loss=3122.91113	 batch_acc=0.70172	 recall=0.70172	 f1=0.70172
+2021-11-18 19:40:39,089 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 19:40:39,093 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=2	 batch train loss=1779.40576	 batch_acc=0.76819	 recall=0.76819	 f1=0.76819
+2021-11-18 19:40:46,288 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 1255
+2021-11-18 19:40:46,293 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=3	 batch train loss=8448.57422	 batch_acc=0.00398	 recall=0.00398	 f1=0.00398
+2021-11-18 19:40:53,475 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 19:40:53,480 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=4	 batch train loss=2302.45557	 batch_acc=0.76177	 recall=0.76177	 f1=0.76177
+2021-11-18 19:41:00,708 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 19:41:00,713 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=5	 batch train loss=2472.05396	 batch_acc=0.70126	 recall=0.70126	 f1=0.70126
+2021-11-18 19:41:07,926 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 19:41:07,931 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=6	 batch train loss=2962.44287	 batch_acc=0.67087	 recall=0.67087	 f1=0.67087
+2021-11-18 19:41:15,176 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 327
+2021-11-18 19:41:15,180 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=7	 batch train loss=3225.40063	 batch_acc=0.50386	 recall=0.50386	 f1=0.50386
+2021-11-18 19:41:22,463 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 19:41:22,468 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=8	 batch train loss=2463.43457	 batch_acc=0.66388	 recall=0.66388	 f1=0.66388
+2021-11-18 19:41:29,718 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 19:41:29,723 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=9	 batch train loss=2234.11719	 batch_acc=0.71282	 recall=0.71282	 f1=0.71282
+2021-11-18 19:44:57,338 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-18 19:44:57,412 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-18 20:04:43,687 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-18 20:04:43,715 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-18 20:05:06,404 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 1268
+2021-11-18 20:05:06,441 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=0	 batch train loss=5285.46777	 batch_acc=0.03542	 recall=0.00399	 f1=0.00288
+2021-11-18 20:05:13,495 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:05:13,499 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=1	 batch train loss=3037.90967	 batch_acc=0.61606	 recall=0.02857	 f1=0.02178
+2021-11-18 20:05:20,730 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:05:20,735 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=2	 batch train loss=2238.38892	 batch_acc=0.71892	 recall=0.03448	 f1=0.02884
+2021-11-18 20:05:28,516 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 1197
+2021-11-18 20:05:28,521 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=3	 batch train loss=5207.41895	 batch_acc=0.01740	 recall=0.02185	 f1=0.00524
+2021-11-18 20:05:36,030 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:05:36,036 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=4	 batch train loss=2170.29468	 batch_acc=0.74177	 recall=0.03125	 f1=0.02662
+2021-11-18 20:05:43,350 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:05:43,355 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=5	 batch train loss=2463.74438	 batch_acc=0.70512	 recall=0.03030	 f1=0.02506
+2021-11-18 20:05:50,577 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:05:50,587 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=6	 batch train loss=2659.34937	 batch_acc=0.66094	 recall=0.02778	 f1=0.02211
+2021-11-18 20:05:57,718 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:05:57,724 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=7	 batch train loss=2133.66138	 batch_acc=0.68729	 recall=0.03226	 f1=0.02628
+2021-11-18 20:06:04,795 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:06:04,800 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=8	 batch train loss=2579.95093	 batch_acc=0.61507	 recall=0.02857	 f1=0.02176
+2021-11-18 20:06:11,929 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:06:11,933 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=9	 batch train loss=2273.29395	 batch_acc=0.67107	 recall=0.02857	 f1=0.02295
+2021-11-18 20:06:19,045 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:06:19,052 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=10	 batch train loss=1699.15515	 batch_acc=0.74211	 recall=0.03030	 f1=0.02582
+2021-11-18 20:06:26,274 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:06:26,278 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=11	 batch train loss=2391.84863	 batch_acc=0.67492	 recall=0.02439	 f1=0.01966
+2021-11-18 20:06:33,418 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:06:33,425 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=12	 batch train loss=2131.90649	 batch_acc=0.73801	 recall=0.03571	 f1=0.03033
+2021-11-18 20:06:40,727 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:06:40,732 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=13	 batch train loss=2142.01367	 batch_acc=0.72206	 recall=0.02703	 f1=0.02266
+2021-11-18 20:06:48,483 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:06:48,488 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=14	 batch train loss=2652.45654	 batch_acc=0.64883	 recall=0.02857	 f1=0.02249
+2021-11-18 20:06:56,239 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:06:56,244 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=15	 batch train loss=2316.05835	 batch_acc=0.65591	 recall=0.03226	 f1=0.02556
+2021-11-18 20:07:03,830 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:07:03,835 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=16	 batch train loss=2195.34644	 batch_acc=0.71560	 recall=0.03030	 f1=0.02528
+2021-11-18 20:07:11,172 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:07:11,181 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=17	 batch train loss=3049.65332	 batch_acc=0.61734	 recall=0.02564	 f1=0.01957
+2021-11-18 20:07:18,744 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:07:18,749 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=18	 batch train loss=2441.82227	 batch_acc=0.62510	 recall=0.03226	 f1=0.02482
+2021-11-18 20:07:26,325 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:07:26,330 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=19	 batch train loss=2327.50391	 batch_acc=0.67299	 recall=0.03448	 f1=0.02774
+2021-11-18 20:08:08,392 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-18 20:08:08,421 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-18 20:08:30,170 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 1257
+2021-11-18 20:08:30,177 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=0	 batch train loss=5517.50195	 batch_acc=0.00477	 recall=0.00267	 f1=0.00210
+2021-11-18 20:08:37,264 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:08:37,269 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=1	 batch train loss=2525.59985	 batch_acc=0.68189	 recall=0.04000	 f1=0.03243
+2021-11-18 20:08:44,488 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:08:44,494 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=2	 batch train loss=3175.71826	 batch_acc=0.66476	 recall=0.04000	 f1=0.03194
+2021-11-18 20:08:51,772 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:08:51,777 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=3	 batch train loss=2192.47705	 batch_acc=0.74026	 recall=0.03448	 f1=0.02934
+2021-11-18 20:08:59,037 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:08:59,041 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=4	 batch train loss=2179.55933	 batch_acc=0.62876	 recall=0.03448	 f1=0.02662
+2021-11-18 20:09:06,602 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:09:06,607 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=5	 batch train loss=2467.85059	 batch_acc=0.70291	 recall=0.03226	 f1=0.02663
+2021-11-18 20:09:14,016 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:09:14,021 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=6	 batch train loss=2569.75293	 batch_acc=0.68286	 recall=0.02703	 f1=0.02193
+2021-11-18 20:09:21,592 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:09:21,597 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=7	 batch train loss=2221.83887	 batch_acc=0.64214	 recall=0.02778	 f1=0.02172
+2021-11-18 20:09:29,173 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 1377
+2021-11-18 20:09:29,179 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=8	 batch train loss=9897.13477	 batch_acc=0.00145	 recall=0.00271	 f1=0.00155
+2021-11-18 20:09:36,986 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 1251
+2021-11-18 20:09:36,991 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=9	 batch train loss=7406.13574	 batch_acc=0.00080	 recall=0.00694	 f1=0.00045
+2021-11-18 20:09:44,205 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 1176
+2021-11-18 20:09:44,210 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=10	 batch train loss=5469.19727	 batch_acc=0.00850	 recall=0.01736	 f1=0.00918
+2021-11-18 20:09:51,528 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 1012
+2021-11-18 20:09:51,533 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=11	 batch train loss=4303.72266	 batch_acc=0.14689	 recall=0.00389	 f1=0.00627
+2021-11-18 20:09:58,855 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 245
+2021-11-18 20:09:58,860 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=12	 batch train loss=4172.05078	 batch_acc=0.54526	 recall=0.01786	 f1=0.01593
+2021-11-18 20:10:06,349 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 36
+2021-11-18 20:10:06,355 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=13	 batch train loss=3585.30811	 batch_acc=0.63290	 recall=0.02258	 f1=0.01812
+2021-11-18 20:10:13,885 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 9
+2021-11-18 20:10:13,892 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=14	 batch train loss=3013.91553	 batch_acc=0.65203	 recall=0.03097	 f1=0.02469
+2021-11-18 20:10:21,304 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 554
+2021-11-18 20:10:21,309 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=15	 batch train loss=3964.69189	 batch_acc=0.37285	 recall=0.01208	 f1=0.01342
+2021-11-18 20:10:28,583 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 2
+2021-11-18 20:10:28,588 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=16	 batch train loss=2841.88916	 batch_acc=0.73525	 recall=0.03122	 f1=0.02649
+2021-11-18 20:10:35,846 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:10:35,851 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=17	 batch train loss=2416.01001	 batch_acc=0.67647	 recall=0.03448	 f1=0.02783
+2021-11-18 20:10:43,432 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 1
+2021-11-18 20:10:43,437 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=18	 batch train loss=2575.65527	 batch_acc=0.66639	 recall=0.03222	 f1=0.02580
+2021-11-18 20:10:50,727 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:10:50,732 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=19	 batch train loss=2786.03394	 batch_acc=0.64363	 recall=0.02778	 f1=0.02175
+2021-11-18 20:10:57,931 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:10:57,936 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=20	 batch train loss=2232.09985	 batch_acc=0.70795	 recall=0.04000	 f1=0.03316
+2021-11-18 20:11:05,344 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:11:05,349 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=21	 batch train loss=2537.99414	 batch_acc=0.68068	 recall=0.02857	 f1=0.02314
+2021-11-18 20:11:12,846 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:11:12,851 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=22	 batch train loss=2434.68701	 batch_acc=0.69727	 recall=0.02857	 f1=0.02348
+2021-11-18 20:11:20,211 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:11:20,219 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=23	 batch train loss=3084.85645	 batch_acc=0.63581	 recall=0.03226	 f1=0.02508
+2021-11-18 20:11:27,644 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:11:27,649 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=24	 batch train loss=2370.89111	 batch_acc=0.64397	 recall=0.02857	 f1=0.02238
+2021-11-18 20:11:35,023 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:11:35,028 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=25	 batch train loss=2273.77783	 batch_acc=0.70213	 recall=0.02857	 f1=0.02357
+2021-11-18 20:11:42,628 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:11:42,633 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=26	 batch train loss=2239.48950	 batch_acc=0.66243	 recall=0.02703	 f1=0.02154
+2021-11-18 20:11:50,471 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:11:50,483 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=27	 batch train loss=2655.34985	 batch_acc=0.59792	 recall=0.02857	 f1=0.02138
+2021-11-18 20:11:58,457 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:11:58,462 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=28	 batch train loss=2145.47559	 batch_acc=0.73256	 recall=0.02857	 f1=0.02416
+2021-11-18 20:12:06,461 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:12:06,466 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=29	 batch train loss=2584.07153	 batch_acc=0.63125	 recall=0.03030	 f1=0.02345
+2021-11-18 20:12:14,165 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:12:14,171 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=30	 batch train loss=1928.18054	 batch_acc=0.73052	 recall=0.03704	 f1=0.03127
+2021-11-18 20:12:21,717 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:12:21,722 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=31	 batch train loss=2306.33740	 batch_acc=0.65566	 recall=0.02703	 f1=0.02141
+2021-11-18 20:12:29,229 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:12:29,233 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=32	 batch train loss=1966.35242	 batch_acc=0.70858	 recall=0.03125	 f1=0.02592
+2021-11-18 20:12:36,592 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:12:36,597 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=33	 batch train loss=1855.65637	 batch_acc=0.79366	 recall=0.03030	 f1=0.02682
+2021-11-18 20:12:43,975 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:12:43,980 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=34	 batch train loss=2212.02612	 batch_acc=0.65673	 recall=0.03030	 f1=0.02402
+2021-11-18 20:12:51,355 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:12:51,360 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=35	 batch train loss=2027.54663	 batch_acc=0.69048	 recall=0.03030	 f1=0.02475
+2021-11-18 20:12:58,728 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:12:58,733 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=36	 batch train loss=2550.94092	 batch_acc=0.61955	 recall=0.02703	 f1=0.02068
+2021-11-18 20:13:06,191 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:13:06,196 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=37	 batch train loss=2259.22998	 batch_acc=0.65557	 recall=0.02857	 f1=0.02263
+2021-11-18 20:13:13,636 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:13:13,641 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=38	 batch train loss=2417.91064	 batch_acc=0.65214	 recall=0.03448	 f1=0.02722
+2021-11-18 20:13:20,970 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:13:20,976 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=39	 batch train loss=2844.30469	 batch_acc=0.63285	 recall=0.02564	 f1=0.01988
+2021-11-18 20:13:28,238 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:13:28,243 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=40	 batch train loss=2274.53418	 batch_acc=0.71714	 recall=0.03226	 f1=0.02694
+2021-11-18 20:13:35,596 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:13:35,601 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=41	 batch train loss=2200.26611	 batch_acc=0.72765	 recall=0.03448	 f1=0.02905
+2021-11-18 20:13:43,091 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:13:43,096 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=42	 batch train loss=1581.55298	 batch_acc=0.76377	 recall=0.03226	 f1=0.02794
+2021-11-18 20:13:50,455 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:13:50,460 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=43	 batch train loss=1801.93604	 batch_acc=0.66506	 recall=0.03448	 f1=0.02755
+2021-11-18 20:13:57,806 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:13:57,811 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=44	 batch train loss=2257.51270	 batch_acc=0.65382	 recall=0.03704	 f1=0.02928
+2021-11-18 20:14:05,087 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:14:05,092 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=45	 batch train loss=2467.10352	 batch_acc=0.65145	 recall=0.03030	 f1=0.02391
+2021-11-18 20:14:12,411 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:14:12,418 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=46	 batch train loss=2856.33252	 batch_acc=0.62526	 recall=0.03226	 f1=0.02482
+2021-11-18 20:14:19,809 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:14:19,814 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=47	 batch train loss=1899.19067	 batch_acc=0.74034	 recall=0.03030	 f1=0.02578
+2021-11-18 20:14:27,142 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:14:27,147 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=48	 batch train loss=2522.05420	 batch_acc=0.61746	 recall=0.02564	 f1=0.01958
+2021-11-18 20:14:34,402 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:14:34,407 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=49	 batch train loss=2110.77393	 batch_acc=0.72595	 recall=0.03333	 f1=0.02804
+2021-11-18 20:14:41,828 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:14:41,834 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=50	 batch train loss=2630.88965	 batch_acc=0.64418	 recall=0.03030	 f1=0.02375
+2021-11-18 20:14:49,172 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 1
+2021-11-18 20:14:49,177 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=51	 batch train loss=2204.49219	 batch_acc=0.65494	 recall=0.02857	 f1=0.02263
+2021-11-18 20:14:56,787 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:14:56,791 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=52	 batch train loss=2197.14014	 batch_acc=0.65952	 recall=0.02778	 f1=0.02208
+2021-11-18 20:15:04,381 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:15:04,386 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=53	 batch train loss=1701.36255	 batch_acc=0.76235	 recall=0.03448	 f1=0.02983
+2021-11-18 20:15:11,849 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:15:11,856 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=54	 batch train loss=2246.24219	 batch_acc=0.64921	 recall=0.03448	 f1=0.02715
+2021-11-18 20:15:20,074 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:15:20,079 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=55	 batch train loss=1895.99121	 batch_acc=0.68772	 recall=0.03030	 f1=0.02470
+2021-11-18 20:15:27,956 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:15:27,961 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=56	 batch train loss=1950.11218	 batch_acc=0.69625	 recall=0.03448	 f1=0.02831
+2021-11-18 20:15:35,638 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:15:35,643 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=57	 batch train loss=2307.86035	 batch_acc=0.67453	 recall=0.02703	 f1=0.02177
+2021-11-18 20:15:43,119 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:15:43,124 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=58	 batch train loss=2069.76074	 batch_acc=0.70303	 recall=0.03125	 f1=0.02580
+2021-11-18 20:15:50,500 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:15:50,505 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=59	 batch train loss=1884.50171	 batch_acc=0.71533	 recall=0.02703	 f1=0.02254
+2021-11-18 20:15:58,064 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:15:58,069 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=60	 batch train loss=2328.12207	 batch_acc=0.66987	 recall=0.02857	 f1=0.02292
+2021-11-18 20:16:05,817 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:16:05,822 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=61	 batch train loss=2241.66870	 batch_acc=0.63300	 recall=0.02857	 f1=0.02215
+2021-11-18 20:16:13,317 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:16:13,322 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=62	 batch train loss=2041.16162	 batch_acc=0.69490	 recall=0.03030	 f1=0.02485
+2021-11-18 20:16:20,798 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:16:20,803 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=63	 batch train loss=1969.31079	 batch_acc=0.66869	 recall=0.03226	 f1=0.02585
+2021-11-18 20:16:28,301 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:16:28,306 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=64	 batch train loss=2038.34253	 batch_acc=0.67938	 recall=0.03704	 f1=0.02997
+2021-11-18 20:16:35,645 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:16:35,650 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=65	 batch train loss=1928.70117	 batch_acc=0.71608	 recall=0.03030	 f1=0.02529
+2021-11-18 20:16:42,990 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:16:42,995 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=66	 batch train loss=1681.59131	 batch_acc=0.73109	 recall=0.03448	 f1=0.02913
+2021-11-18 20:16:50,338 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:16:50,344 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=67	 batch train loss=2532.99390	 batch_acc=0.65109	 recall=0.02439	 f1=0.01924
+2021-11-18 20:16:57,707 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:16:57,712 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=68	 batch train loss=2114.80835	 batch_acc=0.69783	 recall=0.03125	 f1=0.02569
+2021-11-18 20:17:05,452 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:17:05,457 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=69	 batch train loss=1982.78101	 batch_acc=0.70117	 recall=0.03226	 f1=0.02659
+2021-11-18 20:17:12,981 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:17:12,986 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=70	 batch train loss=1751.38293	 batch_acc=0.75349	 recall=0.03030	 f1=0.02604
+2021-11-18 20:17:20,586 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:17:20,591 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=71	 batch train loss=1959.75513	 batch_acc=0.73746	 recall=0.02857	 f1=0.02425
+2021-11-18 20:17:27,862 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 1
+2021-11-18 20:17:27,867 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=72	 batch train loss=2360.28418	 batch_acc=0.63297	 recall=0.03387	 f1=0.02807
+2021-11-18 20:17:35,367 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:17:35,372 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=73	 batch train loss=1896.04028	 batch_acc=0.71831	 recall=0.03448	 f1=0.02883
+2021-11-18 20:17:42,925 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:17:42,931 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=74	 batch train loss=2319.70801	 batch_acc=0.69785	 recall=0.03226	 f1=0.02652
+2021-11-18 20:17:50,225 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:17:50,230 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=75	 batch train loss=2203.69678	 batch_acc=0.65809	 recall=0.02703	 f1=0.02145
+2021-11-18 20:17:57,666 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:17:57,671 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=76	 batch train loss=1790.29309	 batch_acc=0.75000	 recall=0.03030	 f1=0.02597
+2021-11-18 20:18:05,096 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:18:05,101 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=77	 batch train loss=2702.25195	 batch_acc=0.62366	 recall=0.02703	 f1=0.02076
+2021-11-18 20:18:12,541 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:18:12,546 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=78	 batch train loss=2041.22864	 batch_acc=0.73730	 recall=0.02941	 f1=0.02496
+2021-11-18 20:18:19,834 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:18:19,839 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=79	 batch train loss=1685.60388	 batch_acc=0.74697	 recall=0.03030	 f1=0.02591
+2021-11-18 20:18:27,182 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:18:27,188 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=80	 batch train loss=2060.39429	 batch_acc=0.74038	 recall=0.03030	 f1=0.02578
+2021-11-18 20:18:34,418 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:18:34,424 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=81	 batch train loss=1955.03735	 batch_acc=0.71704	 recall=0.03226	 f1=0.02694
+2021-11-18 20:18:41,900 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:18:41,906 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=82	 batch train loss=2045.67725	 batch_acc=0.74433	 recall=0.03333	 f1=0.02845
+2021-11-18 20:18:49,376 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:18:49,381 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=83	 batch train loss=2481.22021	 batch_acc=0.62819	 recall=0.03030	 f1=0.02338
+2021-11-18 20:18:56,835 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:18:56,839 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=84	 batch train loss=1546.22681	 batch_acc=0.71562	 recall=0.03226	 f1=0.02691
+2021-11-18 20:19:04,148 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:19:04,154 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=85	 batch train loss=2351.85156	 batch_acc=0.66451	 recall=0.03030	 f1=0.02420
+2021-11-18 20:19:11,453 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:19:11,459 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=86	 batch train loss=2105.49683	 batch_acc=0.68397	 recall=0.02857	 f1=0.02321
+2021-11-18 20:19:18,740 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:19:18,745 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=87	 batch train loss=1885.84009	 batch_acc=0.72178	 recall=0.03030	 f1=0.02541
+2021-11-18 20:19:26,006 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:19:26,011 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=88	 batch train loss=2544.64673	 batch_acc=0.58706	 recall=0.03125	 f1=0.02312
+2021-11-18 20:19:33,276 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:19:33,284 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=89	 batch train loss=2363.06006	 batch_acc=0.67832	 recall=0.03226	 f1=0.02608
+2021-11-18 20:19:40,554 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:19:40,559 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=90	 batch train loss=2207.72778	 batch_acc=0.67248	 recall=0.02778	 f1=0.02234
+2021-11-18 20:19:47,830 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 1
+2021-11-18 20:19:47,836 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=91	 batch train loss=2587.24854	 batch_acc=0.62786	 recall=0.03387	 f1=0.02795
+2021-11-18 20:19:55,099 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:19:55,104 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=92	 batch train loss=1896.53601	 batch_acc=0.65445	 recall=0.03448	 f1=0.02728
+2021-11-18 20:20:02,387 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 2
+2021-11-18 20:20:02,391 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=93	 batch train loss=2122.25293	 batch_acc=0.63500	 recall=0.03667	 f1=0.03194
+2021-11-18 20:20:09,750 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 1
+2021-11-18 20:20:09,755 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=94	 batch train loss=1895.45117	 batch_acc=0.74655	 recall=0.03387	 f1=0.03065
+2021-11-18 20:20:17,168 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 1
+2021-11-18 20:20:17,173 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=95	 batch train loss=1789.92310	 batch_acc=0.73328	 recall=0.03088	 f1=0.02768
+2021-11-18 20:20:24,532 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:20:24,540 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=96	 batch train loss=2124.65259	 batch_acc=0.69529	 recall=0.02857	 f1=0.02344
+2021-11-18 20:20:32,133 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 2
+2021-11-18 20:20:32,139 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=97	 batch train loss=1797.88843	 batch_acc=0.77186	 recall=0.03548	 f1=0.03396
+2021-11-18 20:20:40,067 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:20:40,072 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=98	 batch train loss=1904.72339	 batch_acc=0.65801	 recall=0.03030	 f1=0.02405
+2021-11-18 20:26:01,440 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-18 20:26:01,477 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-18 20:26:07,111 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 952
+2021-11-18 20:26:07,117 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=0	 batch train loss=4545.23047	 batch_acc=0.15554	 recall=0.00713	 f1=0.00885
+2021-11-18 20:26:09,878 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 7
+2021-11-18 20:26:09,883 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=1	 batch train loss=2785.02124	 batch_acc=0.73580	 recall=0.02922	 f1=0.02495
+2021-11-18 20:26:12,655 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:26:12,659 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=2	 batch train loss=2636.67725	 batch_acc=0.53089	 recall=0.02564	 f1=0.01778
+2021-11-18 20:26:15,424 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:26:15,430 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=3	 batch train loss=2310.62085	 batch_acc=0.73669	 recall=0.03448	 f1=0.02925
+2021-11-18 20:26:18,300 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:26:18,306 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=4	 batch train loss=2777.43018	 batch_acc=0.63428	 recall=0.02857	 f1=0.02218
+2021-11-18 20:26:21,171 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:26:21,177 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=5	 batch train loss=2563.26733	 batch_acc=0.67017	 recall=0.02857	 f1=0.02293
+2021-11-18 20:26:24,023 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:26:24,029 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=6	 batch train loss=2404.73486	 batch_acc=0.71225	 recall=0.02326	 f1=0.01935
+2021-11-18 20:26:26,877 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:26:26,882 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=7	 batch train loss=2248.20654	 batch_acc=0.65587	 recall=0.03226	 f1=0.02555
+2021-11-18 20:26:29,722 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:26:29,728 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=8	 batch train loss=1924.32214	 batch_acc=0.73986	 recall=0.02941	 f1=0.02501
+2021-11-18 20:26:32,578 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 0
+2021-11-18 20:26:32,584 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=9	 batch train loss=1981.72705	 batch_acc=0.70909	 recall=0.02857	 f1=0.02371
+2021-11-18 20:26:35,427 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 2
+2021-11-18 20:26:35,432 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=10	 batch train loss=2102.78247	 batch_acc=0.69672	 recall=0.02997	 f1=0.02606
+2021-11-18 20:26:38,255 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 6
+2021-11-18 20:26:38,261 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=11	 batch train loss=1904.58386	 batch_acc=0.67737	 recall=0.03863	 f1=0.03635
+2021-11-18 20:26:41,100 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 5
+2021-11-18 20:26:41,106 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=12	 batch train loss=1943.69104	 batch_acc=0.71989	 recall=0.03482	 f1=0.03264
+2021-11-18 20:26:43,921 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 12
+2021-11-18 20:26:43,927 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=13	 batch train loss=2165.99463	 batch_acc=0.67384	 recall=0.03715	 f1=0.03657
+2021-11-18 20:26:46,850 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 19
+2021-11-18 20:26:46,856 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=14	 batch train loss=2085.31787	 batch_acc=0.69906	 recall=0.04540	 f1=0.04659
+2021-11-18 20:26:49,711 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 32
+2021-11-18 20:26:49,717 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=15	 batch train loss=2052.19800	 batch_acc=0.71234	 recall=0.05798	 f1=0.06365
+2021-11-18 20:26:52,605 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 37
+2021-11-18 20:26:52,611 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=16	 batch train loss=2268.24731	 batch_acc=0.66443	 recall=0.05550	 f1=0.05757
+2021-11-18 20:26:55,482 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 27
+2021-11-18 20:26:55,487 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=17	 batch train loss=1612.21716	 batch_acc=0.67860	 recall=0.06505	 f1=0.06800
+2021-11-18 20:26:58,345 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 45
+2021-11-18 20:26:58,350 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=18	 batch train loss=1842.98816	 batch_acc=0.65814	 recall=0.07499	 f1=0.08159
+2021-11-18 20:27:01,244 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 45
+2021-11-18 20:27:01,250 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=19	 batch train loss=1807.36841	 batch_acc=0.70628	 recall=0.08652	 f1=0.09809
+2021-11-18 20:27:04,140 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 59
+2021-11-18 20:27:04,145 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=20	 batch train loss=1722.96411	 batch_acc=0.69254	 recall=0.08137	 f1=0.08998
+2021-11-18 20:27:07,016 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 49
+2021-11-18 20:27:07,022 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=21	 batch train loss=1653.66016	 batch_acc=0.69508	 recall=0.08032	 f1=0.08929
+2021-11-18 20:27:09,902 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 92
+2021-11-18 20:27:09,908 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=22	 batch train loss=1379.78796	 batch_acc=0.66726	 recall=0.13065	 f1=0.14853
+2021-11-18 20:27:12,794 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 69
+2021-11-18 20:27:12,800 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=23	 batch train loss=1439.63110	 batch_acc=0.75453	 recall=0.11107	 f1=0.12283
+2021-11-18 20:27:15,707 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 90
+2021-11-18 20:27:15,713 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=24	 batch train loss=1292.87329	 batch_acc=0.73591	 recall=0.12186	 f1=0.13532
+2021-11-18 20:27:18,625 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 105
+2021-11-18 20:27:18,631 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=25	 batch train loss=1580.90210	 batch_acc=0.72259	 recall=0.11894	 f1=0.13738
+2021-11-18 20:27:21,502 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 117
+2021-11-18 20:27:21,508 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=26	 batch train loss=1607.35168	 batch_acc=0.72829	 recall=0.12913	 f1=0.14294
+2021-11-18 20:27:24,389 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 149
+2021-11-18 20:27:24,394 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=27	 batch train loss=1522.62720	 batch_acc=0.72330	 recall=0.15391	 f1=0.16806
+2021-11-18 20:27:27,268 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 130
+2021-11-18 20:27:27,273 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=28	 batch train loss=1148.89709	 batch_acc=0.78884	 recall=0.19648	 f1=0.22183
+2021-11-18 20:27:30,151 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 122
+2021-11-18 20:27:30,156 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=29	 batch train loss=1178.48083	 batch_acc=0.77017	 recall=0.15403	 f1=0.16974
+2021-11-18 20:27:33,008 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 134
+2021-11-18 20:27:33,014 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=30	 batch train loss=1131.03296	 batch_acc=0.80824	 recall=0.16916	 f1=0.18297
+2021-11-18 20:27:35,849 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 166
+2021-11-18 20:27:35,855 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=31	 batch train loss=1370.52856	 batch_acc=0.77786	 recall=0.16301	 f1=0.17298
+2021-11-18 20:27:38,699 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 201
+2021-11-18 20:27:38,704 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=32	 batch train loss=1153.10876	 batch_acc=0.76577	 recall=0.20384	 f1=0.20877
+2021-11-18 20:27:41,543 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 182
+2021-11-18 20:27:41,548 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=33	 batch train loss=1003.45612	 batch_acc=0.80998	 recall=0.23091	 f1=0.24897
+2021-11-18 20:27:44,429 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 158
+2021-11-18 20:27:44,434 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=34	 batch train loss=1075.96582	 batch_acc=0.76909	 recall=0.18270	 f1=0.18447
+2021-11-18 20:27:47,314 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 217
+2021-11-18 20:27:47,319 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=35	 batch train loss=1075.55469	 batch_acc=0.79643	 recall=0.27012	 f1=0.27378
+2021-11-18 20:27:50,170 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 229
+2021-11-18 20:27:50,175 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=36	 batch train loss=1063.48169	 batch_acc=0.81619	 recall=0.22404	 f1=0.20809
+2021-11-18 20:27:53,022 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 211
+2021-11-18 20:27:53,028 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=37	 batch train loss=986.93854	 batch_acc=0.84403	 recall=0.24662	 f1=0.24917
+2021-11-18 20:27:55,875 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 217
+2021-11-18 20:27:55,881 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=38	 batch train loss=1068.49573	 batch_acc=0.79805	 recall=0.25883	 f1=0.26708
+2021-11-18 20:27:58,758 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 161
+2021-11-18 20:27:58,762 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=39	 batch train loss=822.18994	 batch_acc=0.83421	 recall=0.24168	 f1=0.22025
+2021-11-18 20:28:01,676 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 258
+2021-11-18 20:28:01,681 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=40	 batch train loss=885.57672	 batch_acc=0.83117	 recall=0.28673	 f1=0.28490
+2021-11-18 20:28:04,553 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 268
+2021-11-18 20:28:04,560 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=41	 batch train loss=1174.84924	 batch_acc=0.82069	 recall=0.23532	 f1=0.24322
+2021-11-18 20:28:07,506 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 226
+2021-11-18 20:28:07,512 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=42	 batch train loss=1418.86035	 batch_acc=0.76398	 recall=0.18566	 f1=0.19663
+2021-11-18 20:28:10,394 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 193
+2021-11-18 20:28:10,399 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=43	 batch train loss=754.19153	 batch_acc=0.81970	 recall=0.26950	 f1=0.25906
+2021-11-18 20:28:13,272 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 257
+2021-11-18 20:28:13,278 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=44	 batch train loss=893.80933	 batch_acc=0.83146	 recall=0.27204	 f1=0.26498
+2021-11-18 20:28:16,166 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 256
+2021-11-18 20:28:16,171 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=45	 batch train loss=711.14178	 batch_acc=0.84497	 recall=0.25984	 f1=0.27388
+2021-11-18 20:28:19,032 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 268
+2021-11-18 20:28:19,038 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=46	 batch train loss=978.14478	 batch_acc=0.81073	 recall=0.25383	 f1=0.25783
+2021-11-18 20:28:21,922 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 254
+2021-11-18 20:28:21,927 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=47	 batch train loss=846.24823	 batch_acc=0.82778	 recall=0.29405	 f1=0.29993
+2021-11-18 20:28:24,783 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 287
+2021-11-18 20:28:24,788 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=48	 batch train loss=1108.78149	 batch_acc=0.79316	 recall=0.21387	 f1=0.21864
+2021-11-18 20:28:27,642 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 231
+2021-11-18 20:28:27,647 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=49	 batch train loss=882.99426	 batch_acc=0.81466	 recall=0.30734	 f1=0.30803
+2021-11-18 20:28:30,559 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 283
+2021-11-18 20:28:30,565 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=50	 batch train loss=864.88251	 batch_acc=0.83204	 recall=0.28808	 f1=0.28180
+2021-11-18 20:28:33,443 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 311
+2021-11-18 20:28:33,448 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=51	 batch train loss=967.76385	 batch_acc=0.80674	 recall=0.31314	 f1=0.29773
+2021-11-18 20:28:36,341 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 332
+2021-11-18 20:28:36,346 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=52	 batch train loss=913.80426	 batch_acc=0.77656	 recall=0.31855	 f1=0.32105
+2021-11-18 20:28:39,222 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 316
+2021-11-18 20:28:39,227 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=53	 batch train loss=769.04102	 batch_acc=0.85070	 recall=0.32989	 f1=0.34622
+2021-11-18 20:28:42,112 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 350
+2021-11-18 20:28:42,118 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=54	 batch train loss=980.14612	 batch_acc=0.83405	 recall=0.29538	 f1=0.29541
+2021-11-18 20:28:45,008 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 340
+2021-11-18 20:28:45,013 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=55	 batch train loss=1122.01550	 batch_acc=0.80569	 recall=0.28909	 f1=0.28296
+2021-11-18 20:28:47,915 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 271
+2021-11-18 20:28:47,921 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=56	 batch train loss=802.39844	 batch_acc=0.87553	 recall=0.34055	 f1=0.36317
+2021-11-18 20:28:50,808 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 312
+2021-11-18 20:28:50,814 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=57	 batch train loss=815.28113	 batch_acc=0.85193	 recall=0.30386	 f1=0.30150
+2021-11-18 20:28:53,709 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 384
+2021-11-18 20:28:53,714 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=58	 batch train loss=926.87201	 batch_acc=0.82371	 recall=0.27865	 f1=0.28686
+2021-11-18 20:28:56,636 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 222
+2021-11-18 20:28:56,642 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=59	 batch train loss=989.77509	 batch_acc=0.82606	 recall=0.24541	 f1=0.24315
+2021-11-18 20:28:59,540 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 338
+2021-11-18 20:28:59,546 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=60	 batch train loss=914.02185	 batch_acc=0.81988	 recall=0.33465	 f1=0.33688
+2021-11-18 20:29:02,441 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 311
+2021-11-18 20:29:02,447 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=61	 batch train loss=746.08875	 batch_acc=0.85260	 recall=0.36133	 f1=0.39069
+2021-11-18 20:29:05,473 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 320
+2021-11-18 20:29:05,478 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=62	 batch train loss=714.38086	 batch_acc=0.84664	 recall=0.37450	 f1=0.37180
+2021-11-18 20:29:08,485 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 330
+2021-11-18 20:29:08,490 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=63	 batch train loss=903.53113	 batch_acc=0.80523	 recall=0.30286	 f1=0.30884
+2021-11-18 20:29:11,840 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 269
+2021-11-18 20:29:11,845 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=64	 batch train loss=473.71967	 batch_acc=0.90035	 recall=0.42994	 f1=0.45843
+2021-11-18 20:29:15,637 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 291
+2021-11-18 20:29:15,642 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=65	 batch train loss=627.13318	 batch_acc=0.87271	 recall=0.37674	 f1=0.39964
+2021-11-18 20:29:18,798 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 261
+2021-11-18 20:29:18,803 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=66	 batch train loss=720.12292	 batch_acc=0.84151	 recall=0.40621	 f1=0.40820
+2021-11-18 20:29:21,759 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 393
+2021-11-18 20:29:21,765 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=67	 batch train loss=805.86914	 batch_acc=0.85298	 recall=0.31595	 f1=0.32830
+2021-11-18 20:29:24,767 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 355
+2021-11-18 20:29:24,772 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=68	 batch train loss=834.00098	 batch_acc=0.81803	 recall=0.35245	 f1=0.37832
+2021-11-18 20:29:27,806 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 317
+2021-11-18 20:29:27,812 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=69	 batch train loss=712.26343	 batch_acc=0.88012	 recall=0.45119	 f1=0.44108
+2021-11-18 20:29:30,820 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 272
+2021-11-18 20:29:30,825 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=70	 batch train loss=574.34045	 batch_acc=0.87550	 recall=0.39199	 f1=0.41560
+2021-11-18 20:29:33,931 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 256
+2021-11-18 20:29:33,936 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=71	 batch train loss=675.68188	 batch_acc=0.86528	 recall=0.36395	 f1=0.39514
+2021-11-18 20:29:36,897 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 306
+2021-11-18 20:29:36,903 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=72	 batch train loss=567.89270	 batch_acc=0.87792	 recall=0.42214	 f1=0.42109
+2021-11-18 20:29:39,968 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 313
+2021-11-18 20:29:39,975 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=73	 batch train loss=877.10803	 batch_acc=0.85555	 recall=0.37898	 f1=0.39335
+2021-11-18 20:29:42,967 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 247
+2021-11-18 20:29:42,972 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=74	 batch train loss=542.99231	 batch_acc=0.87387	 recall=0.36703	 f1=0.39184
+2021-11-18 20:29:45,991 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 338
+2021-11-18 20:29:45,997 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=75	 batch train loss=818.70197	 batch_acc=0.84958	 recall=0.36711	 f1=0.36995
+2021-11-18 20:29:48,972 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 374
+2021-11-18 20:29:48,978 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=76	 batch train loss=547.01282	 batch_acc=0.88056	 recall=0.44726	 f1=0.44377
+2021-11-18 20:29:52,014 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 329
+2021-11-18 20:29:52,019 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=77	 batch train loss=621.86566	 batch_acc=0.86445	 recall=0.44296	 f1=0.46586
+2021-11-18 20:29:55,005 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 295
+2021-11-18 20:29:55,010 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=78	 batch train loss=535.79279	 batch_acc=0.89474	 recall=0.44978	 f1=0.44618
+2021-11-18 20:29:57,993 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 294
+2021-11-18 20:29:57,998 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=79	 batch train loss=563.77631	 batch_acc=0.86085	 recall=0.38683	 f1=0.40716
+2021-11-18 20:30:00,996 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 282
+2021-11-18 20:30:01,002 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=80	 batch train loss=538.94934	 batch_acc=0.90000	 recall=0.42856	 f1=0.44631
+2021-11-18 20:30:04,059 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 298
+2021-11-18 20:30:04,064 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=81	 batch train loss=549.69812	 batch_acc=0.86376	 recall=0.41650	 f1=0.43712
+2021-11-18 20:30:07,112 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 323
+2021-11-18 20:30:07,118 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=82	 batch train loss=785.06934	 batch_acc=0.87302	 recall=0.39266	 f1=0.41014
+2021-11-18 20:30:10,217 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 341
+2021-11-18 20:30:10,222 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=83	 batch train loss=584.05426	 batch_acc=0.88048	 recall=0.45003	 f1=0.44594
+2021-11-18 20:30:13,274 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 311
+2021-11-18 20:30:13,280 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=84	 batch train loss=627.48462	 batch_acc=0.90166	 recall=0.41692	 f1=0.39906
+2021-11-18 20:30:16,266 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 348
+2021-11-18 20:30:16,271 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=85	 batch train loss=702.92938	 batch_acc=0.84122	 recall=0.40607	 f1=0.40842
+2021-11-18 20:30:19,254 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 338
+2021-11-18 20:30:19,259 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=86	 batch train loss=512.18311	 batch_acc=0.89649	 recall=0.50178	 f1=0.48998
+2021-11-18 20:30:22,160 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 315
+2021-11-18 20:30:22,166 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=87	 batch train loss=649.37451	 batch_acc=0.86499	 recall=0.44018	 f1=0.45659
+2021-11-18 20:30:25,067 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 452
+2021-11-18 20:30:25,073 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=88	 batch train loss=982.26648	 batch_acc=0.84257	 recall=0.44041	 f1=0.42539
+2021-11-18 20:30:28,043 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 341
+2021-11-18 20:30:28,048 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=89	 batch train loss=752.02429	 batch_acc=0.85644	 recall=0.35186	 f1=0.34925
+2021-11-18 20:30:31,053 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 277
+2021-11-18 20:30:31,058 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=90	 batch train loss=500.62411	 batch_acc=0.90000	 recall=0.48820	 f1=0.48390
+2021-11-18 20:30:34,088 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 335
+2021-11-18 20:30:34,093 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=91	 batch train loss=394.99387	 batch_acc=0.92361	 recall=0.56414	 f1=0.58330
+2021-11-18 20:30:37,095 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 278
+2021-11-18 20:30:37,101 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=92	 batch train loss=519.21667	 batch_acc=0.89568	 recall=0.35640	 f1=0.37280
+2021-11-18 20:30:40,223 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 468
+2021-11-18 20:30:40,230 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=93	 batch train loss=762.99768	 batch_acc=0.85228	 recall=0.40846	 f1=0.42153
+2021-11-18 20:30:43,302 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 301
+2021-11-18 20:30:43,307 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=94	 batch train loss=690.23309	 batch_acc=0.84164	 recall=0.44485	 f1=0.46440
+2021-11-18 20:30:46,289 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 343
+2021-11-18 20:30:46,295 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=95	 batch train loss=646.58447	 batch_acc=0.87977	 recall=0.43917	 f1=0.45752
+2021-11-18 20:30:49,258 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 366
+2021-11-18 20:30:49,264 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=96	 batch train loss=723.68176	 batch_acc=0.85829	 recall=0.38288	 f1=0.38587
+2021-11-18 20:30:52,288 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 336
+2021-11-18 20:30:52,294 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=97	 batch train loss=673.36359	 batch_acc=0.87798	 recall=0.43878	 f1=0.42652
+2021-11-18 20:30:55,223 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 406
+2021-11-18 20:30:55,228 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=98	 batch train loss=492.01102	 batch_acc=0.91745	 recall=0.55407	 f1=0.58459
+2021-11-18 20:30:58,152 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 368
+2021-11-18 20:30:58,158 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=99	 batch train loss=508.84595	 batch_acc=0.89319	 recall=0.45879	 f1=0.45283
+2021-11-18 20:31:01,087 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 325
+2021-11-18 20:31:01,092 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=100	 batch train loss=420.06195	 batch_acc=0.90607	 recall=0.50977	 f1=0.52076
+2021-11-18 20:31:04,016 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 297
+2021-11-18 20:31:04,021 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=101	 batch train loss=473.04684	 batch_acc=0.88250	 recall=0.46904	 f1=0.49021
+2021-11-18 20:31:07,099 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 406
+2021-11-18 20:31:07,105 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=102	 batch train loss=534.72998	 batch_acc=0.89015	 recall=0.49364	 f1=0.50106
+2021-11-18 20:31:10,034 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 380
+2021-11-18 20:31:10,040 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=103	 batch train loss=610.57990	 batch_acc=0.86762	 recall=0.46969	 f1=0.48731
+2021-11-18 20:31:13,018 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 340
+2021-11-18 20:31:13,023 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=104	 batch train loss=395.32068	 batch_acc=0.91512	 recall=0.49835	 f1=0.50803
+2021-11-18 20:31:16,004 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 300
+2021-11-18 20:31:16,009 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=105	 batch train loss=457.31030	 batch_acc=0.89811	 recall=0.45034	 f1=0.47265
+2021-11-18 20:31:19,077 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 333
+2021-11-18 20:31:19,084 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=106	 batch train loss=489.11331	 batch_acc=0.90612	 recall=0.45349	 f1=0.45495
+2021-11-18 20:31:22,011 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 371
+2021-11-18 20:31:22,017 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=107	 batch train loss=514.39258	 batch_acc=0.90053	 recall=0.56683	 f1=0.58669
+2021-11-18 20:31:24,926 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 310
+2021-11-18 20:31:24,932 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=108	 batch train loss=456.30966	 batch_acc=0.86582	 recall=0.48525	 f1=0.47462
+2021-11-18 20:31:27,913 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 437
+2021-11-18 20:31:27,919 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=109	 batch train loss=586.77002	 batch_acc=0.88404	 recall=0.49623	 f1=0.48971
+2021-11-18 20:31:30,965 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 452
+2021-11-18 20:31:30,970 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=110	 batch train loss=512.31372	 batch_acc=0.88357	 recall=0.56664	 f1=0.58145
+2021-11-18 20:31:33,894 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 324
+2021-11-18 20:31:33,900 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=111	 batch train loss=519.41400	 batch_acc=0.88672	 recall=0.48798	 f1=0.48400
+2021-11-18 20:31:36,803 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 399
+2021-11-18 20:31:36,809 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=112	 batch train loss=692.31299	 batch_acc=0.86409	 recall=0.49436	 f1=0.49527
+2021-11-18 20:31:40,044 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 388
+2021-11-18 20:31:40,050 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=113	 batch train loss=551.54669	 batch_acc=0.87531	 recall=0.52661	 f1=0.53470
+2021-11-18 20:31:43,071 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 322
+2021-11-18 20:31:43,077 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=114	 batch train loss=726.65344	 batch_acc=0.87070	 recall=0.39165	 f1=0.40028
+2021-11-18 20:31:46,057 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 384
+2021-11-18 20:31:46,062 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=115	 batch train loss=489.06708	 batch_acc=0.88824	 recall=0.52651	 f1=0.54429
+2021-11-18 20:31:49,112 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 295
+2021-11-18 20:31:49,118 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=116	 batch train loss=518.74060	 batch_acc=0.90268	 recall=0.44581	 f1=0.45794
+2021-11-18 20:31:52,164 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 301
+2021-11-18 20:31:52,170 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=117	 batch train loss=597.35999	 batch_acc=0.87348	 recall=0.43803	 f1=0.44216
+2021-11-18 20:31:55,056 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 369
+2021-11-18 20:31:55,062 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=118	 batch train loss=535.11584	 batch_acc=0.88480	 recall=0.49073	 f1=0.50001
+2021-11-18 20:31:57,962 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 397
+2021-11-18 20:31:57,967 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=119	 batch train loss=490.29089	 batch_acc=0.88674	 recall=0.53342	 f1=0.54670
+2021-11-18 20:32:00,950 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 335
+2021-11-18 20:32:00,956 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=120	 batch train loss=441.47449	 batch_acc=0.89292	 recall=0.56889	 f1=0.57452
+2021-11-18 20:32:04,059 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 337
+2021-11-18 20:32:04,065 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=121	 batch train loss=552.31995	 batch_acc=0.89904	 recall=0.49714	 f1=0.48305
+2021-11-18 20:32:07,024 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 341
+2021-11-18 20:32:07,030 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=122	 batch train loss=449.60522	 batch_acc=0.91184	 recall=0.46521	 f1=0.45923
+2021-11-18 20:32:09,960 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 304
+2021-11-18 20:32:09,966 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=123	 batch train loss=292.57147	 batch_acc=0.95134	 recall=0.63748	 f1=0.62310
+2021-11-18 20:32:12,894 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 344
+2021-11-18 20:32:12,900 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=124	 batch train loss=438.79401	 batch_acc=0.91406	 recall=0.48241	 f1=0.48544
+2021-11-18 20:32:15,938 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 398
+2021-11-18 20:32:15,944 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=125	 batch train loss=484.67578	 batch_acc=0.89288	 recall=0.53973	 f1=0.56507
+2021-11-18 20:32:18,937 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 433
+2021-11-18 20:32:18,943 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=126	 batch train loss=531.52820	 batch_acc=0.86414	 recall=0.60475	 f1=0.61336
+2021-11-18 20:32:21,933 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 294
+2021-11-18 20:32:21,938 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=127	 batch train loss=507.54590	 batch_acc=0.91326	 recall=0.49784	 f1=0.51983
+2021-11-18 20:32:24,802 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 329
+2021-11-18 20:32:24,807 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=128	 batch train loss=383.51355	 batch_acc=0.92012	 recall=0.54401	 f1=0.53564
+2021-11-18 20:32:27,737 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 423
+2021-11-18 20:32:27,743 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=129	 batch train loss=635.08276	 batch_acc=0.87842	 recall=0.47225	 f1=0.48602
+2021-11-18 20:32:30,708 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 373
+2021-11-18 20:32:30,714 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=130	 batch train loss=468.75931	 batch_acc=0.90181	 recall=0.46925	 f1=0.49332
+2021-11-18 20:32:33,687 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 330
+2021-11-18 20:32:33,692 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=131	 batch train loss=437.60519	 batch_acc=0.91925	 recall=0.54348	 f1=0.54592
+2021-11-18 20:32:36,736 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 393
+2021-11-18 20:32:36,742 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=132	 batch train loss=661.17047	 batch_acc=0.86587	 recall=0.50887	 f1=0.50139
+2021-11-18 20:32:39,707 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 301
+2021-11-18 20:32:39,713 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=133	 batch train loss=396.46231	 batch_acc=0.90661	 recall=0.51566	 f1=0.53182
+2021-11-18 20:32:42,809 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 424
+2021-11-18 20:32:42,815 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=134	 batch train loss=428.60202	 batch_acc=0.91841	 recall=0.57457	 f1=0.54954
+2021-11-18 20:32:45,715 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 432
+2021-11-18 20:32:45,721 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=135	 batch train loss=426.67172	 batch_acc=0.90719	 recall=0.62827	 f1=0.62744
+2021-11-18 20:32:48,642 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 393
+2021-11-18 20:32:48,648 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=136	 batch train loss=383.55920	 batch_acc=0.92717	 recall=0.62369	 f1=0.60974
+2021-11-18 20:32:51,529 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 391
+2021-11-18 20:32:51,535 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=137	 batch train loss=443.62354	 batch_acc=0.90254	 recall=0.48589	 f1=0.48148
+2021-11-18 20:32:54,480 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 465
+2021-11-18 20:32:54,486 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=138	 batch train loss=724.48291	 batch_acc=0.85043	 recall=0.47068	 f1=0.45945
+2021-11-18 20:32:57,447 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 349
+2021-11-18 20:32:57,452 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=139	 batch train loss=388.41910	 batch_acc=0.90417	 recall=0.55981	 f1=0.57935
+2021-11-18 20:33:00,448 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 359
+2021-11-18 20:33:00,454 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=140	 batch train loss=522.04041	 batch_acc=0.89005	 recall=0.47132	 f1=0.47419
+2021-11-18 20:33:03,442 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 425
+2021-11-18 20:33:03,448 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=141	 batch train loss=559.94409	 batch_acc=0.88782	 recall=0.47445	 f1=0.46088
+2021-11-18 20:33:06,386 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 300
+2021-11-18 20:33:06,391 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=142	 batch train loss=281.10803	 batch_acc=0.92955	 recall=0.62706	 f1=0.61961
+2021-11-18 20:33:09,349 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 285
+2021-11-18 20:33:09,354 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=143	 batch train loss=302.26187	 batch_acc=0.93192	 recall=0.55661	 f1=0.53987
+2021-11-18 20:33:12,399 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 460
+2021-11-18 20:33:12,405 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=144	 batch train loss=568.74170	 batch_acc=0.89398	 recall=0.51501	 f1=0.52304
+2021-11-18 20:33:15,302 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 410
+2021-11-18 20:33:15,307 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=145	 batch train loss=475.93716	 batch_acc=0.90022	 recall=0.56980	 f1=0.59368
+2021-11-18 20:33:18,190 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 368
+2021-11-18 20:33:18,195 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=146	 batch train loss=458.09177	 batch_acc=0.91227	 recall=0.49519	 f1=0.48959
+2021-11-18 20:33:21,071 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 345
+2021-11-18 20:33:21,076 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=147	 batch train loss=595.93921	 batch_acc=0.88576	 recall=0.41309	 f1=0.42775
+2021-11-18 20:33:23,961 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 313
+2021-11-18 20:33:23,966 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=148	 batch train loss=417.51602	 batch_acc=0.92037	 recall=0.55077	 f1=0.56122
+2021-11-18 20:33:26,819 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 475
+2021-11-18 20:33:26,825 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=149	 batch train loss=486.24847	 batch_acc=0.90374	 recall=0.57517	 f1=0.58575
+2021-11-18 20:33:29,748 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 312
+2021-11-18 20:33:29,754 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=150	 batch train loss=705.33813	 batch_acc=0.89175	 recall=0.51641	 f1=0.51719
+2021-11-18 20:33:32,705 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 475
+2021-11-18 20:33:32,710 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=151	 batch train loss=637.63916	 batch_acc=0.86481	 recall=0.49199	 f1=0.46375
+2021-11-18 20:33:35,612 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 438
+2021-11-18 20:33:35,617 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=152	 batch train loss=557.46838	 batch_acc=0.87997	 recall=0.48706	 f1=0.47862
+2021-11-18 20:33:38,697 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 459
+2021-11-18 20:33:38,703 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=153	 batch train loss=642.68958	 batch_acc=0.88351	 recall=0.51500	 f1=0.49381
+2021-11-18 20:33:41,650 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 373
+2021-11-18 20:33:41,655 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=154	 batch train loss=316.65027	 batch_acc=0.91962	 recall=0.60410	 f1=0.58678
+2021-11-18 20:33:44,642 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 390
+2021-11-18 20:33:44,648 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=155	 batch train loss=643.46997	 batch_acc=0.88544	 recall=0.54324	 f1=0.54046
+2021-11-18 20:33:47,592 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 380
+2021-11-18 20:33:47,598 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=156	 batch train loss=531.45917	 batch_acc=0.87583	 recall=0.54262	 f1=0.52690
+2021-11-18 20:33:50,511 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 482
+2021-11-18 20:33:50,517 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=157	 batch train loss=554.78418	 batch_acc=0.87519	 recall=0.56791	 f1=0.57107
+2021-11-18 20:33:53,431 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 325
+2021-11-18 20:33:53,437 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=158	 batch train loss=343.16656	 batch_acc=0.91337	 recall=0.50526	 f1=0.49636
+2021-11-18 20:33:56,352 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 371
+2021-11-18 20:33:56,357 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=159	 batch train loss=342.75079	 batch_acc=0.91776	 recall=0.66760	 f1=0.67938
+2021-11-18 20:33:59,278 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 323
+2021-11-18 20:33:59,283 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=160	 batch train loss=375.71506	 batch_acc=0.91587	 recall=0.55545	 f1=0.57852
+2021-11-18 20:34:02,182 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 419
+2021-11-18 20:34:02,188 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=161	 batch train loss=490.60526	 batch_acc=0.89135	 recall=0.50588	 f1=0.49620
+2021-11-18 20:34:05,082 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 300
+2021-11-18 20:34:05,088 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=162	 batch train loss=397.25989	 batch_acc=0.90237	 recall=0.55915	 f1=0.57264
+2021-11-18 20:34:08,010 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 342
+2021-11-18 20:34:08,015 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=163	 batch train loss=515.04559	 batch_acc=0.87542	 recall=0.54109	 f1=0.54651
+2021-11-18 20:34:10,924 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 344
+2021-11-18 20:34:10,930 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=164	 batch train loss=491.69534	 batch_acc=0.89129	 recall=0.45819	 f1=0.47278
+2021-11-18 20:34:13,841 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 373
+2021-11-18 20:34:13,847 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=165	 batch train loss=346.64670	 batch_acc=0.92649	 recall=0.60533	 f1=0.64372
+2021-11-18 20:34:16,794 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 335
+2021-11-18 20:34:16,799 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=166	 batch train loss=359.06299	 batch_acc=0.91590	 recall=0.52174	 f1=0.53784
+2021-11-18 20:34:19,768 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 404
+2021-11-18 20:34:19,774 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=167	 batch train loss=509.92096	 batch_acc=0.86992	 recall=0.47498	 f1=0.47447
+2021-11-18 20:34:22,693 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 373
+2021-11-18 20:34:22,698 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=168	 batch train loss=305.52628	 batch_acc=0.92835	 recall=0.61349	 f1=0.65940
+2021-11-18 20:34:25,684 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 349
+2021-11-18 20:34:25,689 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=169	 batch train loss=349.58313	 batch_acc=0.92010	 recall=0.53138	 f1=0.53472
+2021-11-18 20:34:28,734 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 470
+2021-11-18 20:34:28,739 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=170	 batch train loss=430.23007	 batch_acc=0.89755	 recall=0.60712	 f1=0.60747
+2021-11-18 20:34:31,631 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 309
+2021-11-18 20:34:31,637 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=171	 batch train loss=332.66623	 batch_acc=0.91850	 recall=0.51177	 f1=0.52658
+2021-11-18 20:34:34,506 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 431
+2021-11-18 20:34:34,512 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=172	 batch train loss=384.90936	 batch_acc=0.90016	 recall=0.60561	 f1=0.62137
+2021-11-18 20:34:37,443 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 404
+2021-11-18 20:34:37,449 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=173	 batch train loss=440.87042	 batch_acc=0.89719	 recall=0.57414	 f1=0.57766
+2021-11-18 20:34:40,338 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 414
+2021-11-18 20:34:40,344 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=174	 batch train loss=264.53683	 batch_acc=0.94272	 recall=0.67324	 f1=0.67783
+2021-11-18 20:34:43,238 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 338
+2021-11-18 20:34:43,243 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=175	 batch train loss=325.63892	 batch_acc=0.91408	 recall=0.59459	 f1=0.62151
+2021-11-18 20:34:46,105 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 366
+2021-11-18 20:34:46,111 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=176	 batch train loss=423.39111	 batch_acc=0.89283	 recall=0.59958	 f1=0.60617
+2021-11-18 20:34:48,999 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 389
+2021-11-18 20:34:49,005 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=177	 batch train loss=354.30280	 batch_acc=0.93137	 recall=0.71624	 f1=0.70326
+2021-11-18 20:34:51,862 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 412
+2021-11-18 20:34:51,867 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=178	 batch train loss=388.46353	 batch_acc=0.91400	 recall=0.57778	 f1=0.56884
+2021-11-18 20:34:54,769 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 449
+2021-11-18 20:34:54,775 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=179	 batch train loss=466.90631	 batch_acc=0.91986	 recall=0.54203	 f1=0.52021
+2021-11-18 20:34:57,644 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 418
+2021-11-18 20:34:57,650 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=180	 batch train loss=369.71124	 batch_acc=0.90694	 recall=0.56698	 f1=0.57010
+2021-11-18 20:35:00,565 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 315
+2021-11-18 20:35:00,570 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=181	 batch train loss=263.75842	 batch_acc=0.93245	 recall=0.59454	 f1=0.58943
+2021-11-18 20:35:03,514 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 332
+2021-11-18 20:35:03,520 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=182	 batch train loss=350.45041	 batch_acc=0.91729	 recall=0.61700	 f1=0.62276
+2021-11-18 20:35:06,491 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 335
+2021-11-18 20:35:06,497 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=183	 batch train loss=296.69034	 batch_acc=0.91982	 recall=0.61318	 f1=0.64885
+2021-11-18 20:35:09,436 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 415
+2021-11-18 20:35:09,442 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=184	 batch train loss=365.06030	 batch_acc=0.91499	 recall=0.62284	 f1=0.59913
+2021-11-18 20:35:12,349 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 441
+2021-11-18 20:35:12,355 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=185	 batch train loss=345.22372	 batch_acc=0.93145	 recall=0.65226	 f1=0.64826
+2021-11-18 20:35:15,272 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 227
+2021-11-18 20:35:15,277 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=186	 batch train loss=346.72815	 batch_acc=0.89231	 recall=0.49196	 f1=0.50667
+2021-11-18 20:35:18,221 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 438
+2021-11-18 20:35:18,226 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=187	 batch train loss=331.31955	 batch_acc=0.94147	 recall=0.63969	 f1=0.62939
+2021-11-18 20:35:21,199 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 361
+2021-11-18 20:35:21,204 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=188	 batch train loss=337.25027	 batch_acc=0.91940	 recall=0.62607	 f1=0.64527
+2021-11-18 20:35:24,105 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 380
+2021-11-18 20:35:24,111 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=189	 batch train loss=523.34198	 batch_acc=0.89869	 recall=0.54457	 f1=0.56889
+2021-11-18 20:35:27,028 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 366
+2021-11-18 20:35:27,033 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=190	 batch train loss=573.46643	 batch_acc=0.87671	 recall=0.54565	 f1=0.52943
+2021-11-18 20:35:29,930 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 363
+2021-11-18 20:35:29,935 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=191	 batch train loss=386.12491	 batch_acc=0.90829	 recall=0.54595	 f1=0.54058
+2021-11-18 20:35:32,799 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 340
+2021-11-18 20:35:32,805 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=192	 batch train loss=547.56787	 batch_acc=0.86942	 recall=0.45734	 f1=0.44366
+2021-11-18 20:35:35,682 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 455
+2021-11-18 20:35:35,688 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=193	 batch train loss=439.62231	 batch_acc=0.88394	 recall=0.60400	 f1=0.61364
+2021-11-18 20:35:38,599 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 473
+2021-11-18 20:35:38,606 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=194	 batch train loss=398.93744	 batch_acc=0.92799	 recall=0.59793	 f1=0.59093
+2021-11-18 20:35:41,664 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 414
+2021-11-18 20:35:41,670 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=195	 batch train loss=528.92212	 batch_acc=0.89587	 recall=0.58211	 f1=0.57237
+2021-11-18 20:35:44,607 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 499
+2021-11-18 20:35:44,613 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=196	 batch train loss=481.00000	 batch_acc=0.88444	 recall=0.63572	 f1=0.58873
+2021-11-18 20:35:47,584 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 380
+2021-11-18 20:35:47,590 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=197	 batch train loss=306.54507	 batch_acc=0.93623	 recall=0.58089	 f1=0.57475
+2021-11-18 20:35:50,496 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 468
+2021-11-18 20:35:50,502 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=198	 batch train loss=560.11157	 batch_acc=0.87177	 recall=0.51150	 f1=0.49587
+2021-11-18 20:35:53,394 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 321
+2021-11-18 20:35:53,399 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=199	 batch train loss=241.91153	 batch_acc=0.93801	 recall=0.66632	 f1=0.68092
+2021-11-18 20:35:56,320 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 492
+2021-11-18 20:35:56,326 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=200	 batch train loss=547.12439	 batch_acc=0.89768	 recall=0.49863	 f1=0.50838
+2021-11-18 20:35:59,252 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 324
+2021-11-18 20:35:59,258 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=201	 batch train loss=245.88568	 batch_acc=0.94104	 recall=0.62507	 f1=0.61865
+2021-11-18 20:36:02,149 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 419
+2021-11-18 20:36:02,155 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=202	 batch train loss=472.25095	 batch_acc=0.91025	 recall=0.56755	 f1=0.57580
+2021-11-18 20:36:05,172 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 436
+2021-11-18 20:36:05,178 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=203	 batch train loss=379.58148	 batch_acc=0.92132	 recall=0.65652	 f1=0.64376
+2021-11-18 20:36:08,140 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 408
+2021-11-18 20:36:08,148 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=204	 batch train loss=365.74188	 batch_acc=0.91997	 recall=0.60333	 f1=0.61098
+2021-11-18 20:36:11,035 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 391
+2021-11-18 20:36:11,041 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=205	 batch train loss=422.46475	 batch_acc=0.91649	 recall=0.69368	 f1=0.67033
+2021-11-18 20:36:13,952 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 454
+2021-11-18 20:36:13,958 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=206	 batch train loss=466.17935	 batch_acc=0.90610	 recall=0.60386	 f1=0.59396
+2021-11-18 20:36:16,962 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 426
+2021-11-18 20:36:16,968 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=207	 batch train loss=367.94238	 batch_acc=0.91227	 recall=0.59587	 f1=0.58786
+2021-11-18 20:36:19,886 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 429
+2021-11-18 20:36:19,893 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=208	 batch train loss=369.95648	 batch_acc=0.92899	 recall=0.57334	 f1=0.58117
+2021-11-18 20:36:22,798 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 398
+2021-11-18 20:36:22,804 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=209	 batch train loss=354.78543	 batch_acc=0.92018	 recall=0.57768	 f1=0.57421
+2021-11-18 20:36:25,692 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 428
+2021-11-18 20:36:25,697 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=210	 batch train loss=364.03122	 batch_acc=0.91081	 recall=0.62078	 f1=0.61025
+2021-11-18 20:36:28,611 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 445
+2021-11-18 20:36:28,617 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=211	 batch train loss=359.30518	 batch_acc=0.91685	 recall=0.61131	 f1=0.62510
+2021-11-18 20:36:31,499 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 373
+2021-11-18 20:36:31,505 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=212	 batch train loss=333.16193	 batch_acc=0.93402	 recall=0.68486	 f1=0.68570
+2021-11-18 20:36:34,410 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 455
+2021-11-18 20:36:34,416 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=213	 batch train loss=371.14441	 batch_acc=0.91573	 recall=0.60926	 f1=0.60474
+2021-11-18 20:36:37,308 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 308
+2021-11-18 20:36:37,313 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=214	 batch train loss=281.94943	 batch_acc=0.93287	 recall=0.70846	 f1=0.71680
+2021-11-18 20:36:40,226 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 296
+2021-11-18 20:36:40,232 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=215	 batch train loss=224.62262	 batch_acc=0.95173	 recall=0.65300	 f1=0.66445
+2021-11-18 20:36:43,141 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 299
+2021-11-18 20:36:43,147 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=216	 batch train loss=258.79822	 batch_acc=0.93729	 recall=0.68627	 f1=0.66928
+2021-11-18 20:36:46,080 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 340
+2021-11-18 20:36:46,086 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=217	 batch train loss=241.59091	 batch_acc=0.94588	 recall=0.74487	 f1=0.72722
+2021-11-18 20:36:48,985 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 417
+2021-11-18 20:36:48,991 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=218	 batch train loss=397.92075	 batch_acc=0.90689	 recall=0.55546	 f1=0.57482
+2021-11-18 20:36:51,885 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 418
+2021-11-18 20:36:51,891 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=219	 batch train loss=394.68393	 batch_acc=0.91507	 recall=0.66169	 f1=0.67203
+2021-11-18 20:36:54,761 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 394
+2021-11-18 20:36:54,767 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=220	 batch train loss=356.07001	 batch_acc=0.93211	 recall=0.53855	 f1=0.55474
+2021-11-18 20:36:57,656 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 357
+2021-11-18 20:36:57,662 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=221	 batch train loss=302.90128	 batch_acc=0.91997	 recall=0.64027	 f1=0.62417
+2021-11-18 20:37:00,571 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 406
+2021-11-18 20:37:00,577 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=222	 batch train loss=426.27148	 batch_acc=0.89965	 recall=0.61901	 f1=0.59199
+2021-11-18 20:37:03,521 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 388
+2021-11-18 20:37:03,526 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=223	 batch train loss=370.41684	 batch_acc=0.91451	 recall=0.57111	 f1=0.58002
+2021-11-18 20:37:06,491 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 404
+2021-11-18 20:37:06,497 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=224	 batch train loss=278.17294	 batch_acc=0.93516	 recall=0.70227	 f1=0.71073
+2021-11-18 20:37:09,489 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 336
+2021-11-18 20:37:09,494 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=225	 batch train loss=277.47186	 batch_acc=0.93389	 recall=0.63098	 f1=0.61608
+2021-11-18 20:37:12,442 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 379
+2021-11-18 20:37:12,448 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=226	 batch train loss=346.56561	 batch_acc=0.92006	 recall=0.62863	 f1=0.60558
+2021-11-18 20:37:15,432 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 346
+2021-11-18 20:37:15,438 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=227	 batch train loss=290.75537	 batch_acc=0.93522	 recall=0.73156	 f1=0.75029
+2021-11-18 20:37:18,452 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 431
+2021-11-18 20:37:18,458 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=228	 batch train loss=379.89755	 batch_acc=0.92350	 recall=0.57661	 f1=0.57003
+2021-11-18 20:37:21,459 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 400
+2021-11-18 20:37:21,465 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=229	 batch train loss=648.86224	 batch_acc=0.88057	 recall=0.59385	 f1=0.56863
+2021-11-18 20:37:24,411 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 442
+2021-11-18 20:37:24,417 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=230	 batch train loss=462.04971	 batch_acc=0.91396	 recall=0.69808	 f1=0.69529
+2021-11-18 20:37:27,410 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 374
+2021-11-18 20:37:27,416 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=231	 batch train loss=304.86627	 batch_acc=0.92049	 recall=0.62286	 f1=0.62623
+2021-11-18 20:37:30,365 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 394
+2021-11-18 20:37:30,370 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=232	 batch train loss=300.84940	 batch_acc=0.92461	 recall=0.69749	 f1=0.70364
+2021-11-18 20:37:33,331 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 323
+2021-11-18 20:37:33,336 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=233	 batch train loss=196.58817	 batch_acc=0.95559	 recall=0.78080	 f1=0.76199
+2021-11-18 20:37:36,304 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 304
+2021-11-18 20:37:36,310 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=234	 batch train loss=232.34521	 batch_acc=0.94172	 recall=0.68572	 f1=0.68347
+2021-11-18 20:37:39,275 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 453
+2021-11-18 20:37:39,280 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=235	 batch train loss=330.44135	 batch_acc=0.92119	 recall=0.66647	 f1=0.65562
+2021-11-18 20:37:42,223 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 480
+2021-11-18 20:37:42,228 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=236	 batch train loss=357.64246	 batch_acc=0.91550	 recall=0.71047	 f1=0.70171
+2021-11-18 20:37:45,231 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 536
+2021-11-18 20:37:45,237 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=237	 batch train loss=418.40930	 batch_acc=0.92204	 recall=0.63410	 f1=0.66223
+2021-11-18 20:37:48,353 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 336
+2021-11-18 20:37:48,359 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=238	 batch train loss=242.03769	 batch_acc=0.93775	 recall=0.57993	 f1=0.58200
+2021-11-18 20:37:51,592 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 285
+2021-11-18 20:37:51,597 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=239	 batch train loss=328.26965	 batch_acc=0.90813	 recall=0.55561	 f1=0.53531
+2021-11-18 20:37:54,530 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 365
+2021-11-18 20:37:54,536 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=240	 batch train loss=316.29532	 batch_acc=0.93831	 recall=0.68818	 f1=0.70888
+2021-11-18 20:37:57,570 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 384
+2021-11-18 20:37:57,575 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=241	 batch train loss=305.40698	 batch_acc=0.92379	 recall=0.62464	 f1=0.63758
+2021-11-18 20:38:00,638 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 453
+2021-11-18 20:38:00,644 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=242	 batch train loss=433.22876	 batch_acc=0.89917	 recall=0.69516	 f1=0.67478
+2021-11-18 20:38:03,722 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 331
+2021-11-18 20:38:03,728 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=243	 batch train loss=320.53458	 batch_acc=0.92727	 recall=0.64248	 f1=0.64485
+2021-11-18 20:38:06,788 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 359
+2021-11-18 20:38:06,793 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=244	 batch train loss=360.77991	 batch_acc=0.91374	 recall=0.54004	 f1=0.55055
+2021-11-18 20:38:09,783 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 293
+2021-11-18 20:38:09,789 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=245	 batch train loss=302.58054	 batch_acc=0.92963	 recall=0.61179	 f1=0.64062
+2021-11-18 20:38:12,852 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 437
+2021-11-18 20:38:12,857 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=246	 batch train loss=352.38095	 batch_acc=0.91817	 recall=0.58583	 f1=0.58533
+2021-11-18 20:38:15,909 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 344
+2021-11-18 20:38:15,914 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=247	 batch train loss=423.16925	 batch_acc=0.90739	 recall=0.60468	 f1=0.60482
+2021-11-18 20:38:18,892 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 459
+2021-11-18 20:38:18,898 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=248	 batch train loss=367.85284	 batch_acc=0.92537	 recall=0.66282	 f1=0.64556
+2021-11-18 20:38:21,864 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - batch preds non zero 336
+2021-11-18 20:38:21,869 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep=0	 step=249	 batch train loss=281.60321	 batch_acc=0.92620	 recall=0.65557	 f1=0.65626
+2021-11-18 20:38:29,723 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ['D:\\zcd\\PycharmProjects\\ner_try/data/tfrecords/train/2021_11_01_13_27_37.tfrecords']
+2021-11-18 20:38:29,723 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ['D:\\zcd\\PycharmProjects\\ner_try/data/tfrecords/valid/2021_11_01_13_27_46.tfrecords']
+2021-11-18 20:38:29,723 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep:0 is about to train
+2021-11-18 20:38:29,827 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-18 20:38:32,914 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-18 20:38:33,205 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-18 20:38:33,237 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-18 20:38:33,550 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished
+2021-11-18 20:45:27,936 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ['D:\\zcd\\PycharmProjects\\ner_try/data/tfrecords/train/2021_11_01_13_27_37.tfrecords']
+2021-11-18 20:45:27,937 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ['D:\\zcd\\PycharmProjects\\ner_try/data/tfrecords/valid/2021_11_01_13_27_46.tfrecords']
+2021-11-18 20:45:27,937 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep:0 is about to train
+2021-11-18 20:45:28,034 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-18 20:45:31,074 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-18 20:45:31,351 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-18 20:45:31,380 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-18 20:45:31,678 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished
+2021-11-18 21:20:20,503 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-18 21:20:22,529 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-18 21:20:22,725 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-18 21:20:22,754 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-18 21:20:23,041 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished
+2021-11-18 21:32:35,161 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - Epoch:0	 loss=177.63194	 recall=0.65690 	 precision=0.71112	 f1=0.67193	rain plus eval time=2827.22436
+2021-11-18 21:32:35,161 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep:1 is about to train
+2021-11-18 21:32:35,242 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-18 21:32:37,400 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-18 21:32:37,618 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-18 21:32:37,651 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-18 21:32:37,968 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished
+2021-11-18 22:22:44,950 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-18 22:22:46,991 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-18 22:22:47,192 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-18 22:22:47,221 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-18 22:22:47,506 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished
+2021-11-18 22:36:13,411 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - Epoch:1	 loss=117.45025	 recall=0.71119 	 precision=0.77153	 f1=0.73038	rain plus eval time=3818.24932
+2021-11-18 22:36:13,411 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep:2 is about to train
+2021-11-18 22:36:13,495 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-18 22:36:15,568 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-18 22:36:15,766 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-18 22:36:15,795 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-18 22:36:16,082 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished
+2021-11-18 23:32:41,764 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-18 23:32:43,818 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-18 23:32:44,016 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-18 23:32:44,044 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-18 23:32:44,331 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished
+2021-11-18 23:47:34,059 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - Epoch:2	 loss=94.52453	 recall=0.73629 	 precision=0.77807	 f1=0.74968	rain plus eval time=4280.64809
+2021-11-18 23:47:34,059 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep:3 is about to train
+2021-11-18 23:47:34,141 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-18 23:47:36,491 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-18 23:47:36,759 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-18 23:47:36,787 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-18 23:47:37,074 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished
+2021-11-19 00:44:55,109 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-19 00:44:57,174 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-19 00:44:57,381 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-19 00:44:57,410 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-19 00:44:57,695 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished
+2021-11-19 01:00:55,430 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - Epoch:3	 loss=76.10633	 recall=0.74840 	 precision=0.79117	 f1=0.76455	rain plus eval time=4401.37136
+2021-11-19 01:00:55,431 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep:4 is about to train
+2021-11-19 01:00:55,513 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-19 01:00:57,843 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-19 01:00:58,042 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-19 01:00:58,070 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-19 01:00:58,357 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished
+2021-11-19 02:04:19,741 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-19 02:04:21,957 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-19 02:04:22,181 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-19 02:04:22,209 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-19 02:04:22,508 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished
+2021-11-19 02:20:06,017 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - Epoch:4	 loss=65.46798	 recall=0.76148 	 precision=0.81866	 f1=0.77530	rain plus eval time=4750.58650
+2021-11-19 02:20:06,018 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep:5 is about to train
+2021-11-19 02:20:06,104 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-19 02:20:08,162 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-19 02:20:08,362 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-19 02:20:08,391 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-19 02:20:08,680 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished
+2021-11-19 03:26:49,708 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-19 03:26:51,811 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-19 03:26:52,008 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-19 03:26:52,036 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-19 03:26:52,322 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished
+2021-11-19 03:44:33,442 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - Epoch:5	 loss=60.98659	 recall=0.73679 	 precision=0.81314	 f1=0.76641	rain plus eval time=5067.42348
+2021-11-19 03:44:33,442 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep:6 is about to train
+2021-11-19 03:44:33,524 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-19 03:44:36,211 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-19 03:44:36,482 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-19 03:44:36,510 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-19 03:44:36,796 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished
+2021-11-19 04:50:23,760 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-19 04:50:25,942 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-19 04:50:26,139 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-19 04:50:26,167 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-19 04:50:26,451 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished
+2021-11-19 05:05:21,138 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - Epoch:6	 loss=55.62369	 recall=0.78303 	 precision=0.82275	 f1=0.79143	rain plus eval time=4847.69541
+2021-11-19 05:05:21,138 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep:7 is about to train
+2021-11-19 05:05:21,228 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-19 05:05:23,309 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-19 05:05:23,509 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-19 05:05:23,537 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-19 05:05:23,823 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished
+2021-11-19 06:13:31,182 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-19 06:13:33,359 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-19 06:13:33,562 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-19 06:13:33,590 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-19 06:13:33,876 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished
+2021-11-19 06:29:20,411 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - Epoch:7	 loss=48.49393	 recall=0.80944 	 precision=0.83147	 f1=0.81460	rain plus eval time=5039.27295
+2021-11-19 06:29:20,411 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep:8 is about to train
+2021-11-19 06:29:20,495 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-19 06:29:22,868 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-19 06:29:23,067 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-19 06:29:23,095 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-19 06:29:23,460 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished
+2021-11-19 07:33:54,034 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-19 07:33:56,310 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-19 07:33:56,529 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-19 07:33:56,561 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-19 07:33:56,880 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished
+2021-11-19 07:50:07,626 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - Epoch:8	 loss=45.57475	 recall=0.81495 	 precision=0.85408	 f1=0.82998	rain plus eval time=4847.21468
+2021-11-19 07:50:07,627 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - ep:9 is about to train
+2021-11-19 07:50:07,711 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-19 07:50:09,766 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-19 07:50:09,967 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-19 07:50:09,995 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-19 07:50:10,286 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished
+2021-11-19 08:57:07,016 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - input features/labels are generated!
+2021-11-19 08:57:09,121 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - bert_fp_finished
+2021-11-19 08:57:09,319 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_fp_finished
+2021-11-19 08:57:09,350 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - biLSTM_projection_fp_finished
+2021-11-19 08:57:09,643 - D:\zcd\PycharmProjects\ner_try/data/log/train.log - DEBUG - loss_fp_finished

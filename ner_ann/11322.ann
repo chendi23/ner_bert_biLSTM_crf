@@ -1,0 +1,16 @@
+T1	ZB_air 0 6	“枭龙”战机
+T2	Country 6 10	巴基斯坦
+T3	BD 10 12	空军
+T4	Quantity 15 18	42架
+T5	Quantity 28 30	三代
+T6	Country 34 35	巴
+T7	BD 35 37	空军
+T8	Quantity 46 49	50架
+T9	Quantity 52 55	42架
+T10	ZB_air 55 61	“枭龙”战机
+T11	Quantity 65 67	两国
+T12	Time 78 82	3月7日
+T13	Country 83 87	巴基斯坦
+T14	BD 88 90	空军
+T15	BD 90 93	司令部
+T16	Money 107 112	10亿美元

@@ -1,0 +1,16 @@
+T1	Time 0 5	八一建军节
+T2	Country 10 11	中
+T3	Party 11 12	共
+T4	Org 12 14	中央
+T5	Job 14 17	总书记
+T6	Job 18 22	国家主席
+T7	BD 23 27	中央军委
+T8	Job 27 29	主席
+T9	Person 29 32	习近平
+T10	GPE 34 36	福建
+T11	Party 57 58	党
+T12	Org 58 60	中央
+T13	Org 61 63	中央
+T14	BD 63 65	军委
+T15	BD 66 69	解放军
+T16	BD 73 77	武警部队

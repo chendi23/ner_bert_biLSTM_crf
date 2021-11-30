@@ -1,0 +1,9 @@
+T1	ZB_air 24 27	F22
+T2	ZB_air 28 31	F35
+T3	ZB_air 32 35	歼20
+T4	ZB_air 36 39	歼31
+T5	Country 40 43	俄罗斯
+T6	ZB_air 44 47	苏57
+T7	Quantity 48 51	第五代
+T8	ZB_gun 116 119	SDB
+T9	ZB_gun 130 133	SDB

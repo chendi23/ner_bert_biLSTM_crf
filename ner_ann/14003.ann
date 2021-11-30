@@ -1,0 +1,12 @@
+T1	BD 0 5	特务工作处
+T2	BD 8 12	中央军委
+T3	BD 16 20	中央军委
+T4	BD 22 25	军事部
+T5	Quantity 27 29	首任
+T6	BD 29 31	军委
+T7	Job 31 33	书记
+T8	Person 33 36	周恩来
+T9	Job 37 40	秘书长
+T10	Person 40 43	王一飞
+T11	Job 44 47	参谋长
+T12	Person 47 50	聂荣臻

@@ -1,0 +1,13 @@
+T1	Country 0 2	美国
+T2	Org 2 4	国会
+T3	Job 4 7	参议员
+T4	Org 8 11	参议院
+T5	Org 11 18	情报特别委员会
+T6	Job 18 20	主席
+T7	Person 20 27	黛安娜?范斯坦
+T8	Time 27 30	13日
+T9	Country 32 35	阿富汗
+T10	Org 36 44	北大西洋公约组织
+T11	Country 48 51	阿富汗
+T12	Org 51 54	塔利班
+T13	Country 58 62	巴基斯坦

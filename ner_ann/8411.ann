@@ -1,0 +1,13 @@
+T1	Country 0 2	中国
+T2	BD 2 7	人民解放军
+T3	Job 7 10	总司令
+T4	Person 10 12	朱德
+T5	BD 14 15	陆
+T6	BD 15 16	海
+T7	BD 16 17	空
+T8	Quantity 17 19	三军
+T9	ZBGC 20 24	华北军区
+T10	Job 24 27	司令员
+T11	ZBGC 28 33	京津卫戍区
+T12	Job 33 36	司令员
+T13	Person 36 39	聂荣臻

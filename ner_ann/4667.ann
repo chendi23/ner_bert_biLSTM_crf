@@ -1,0 +1,13 @@
+T1	Country 0 2	日本
+T2	Org 2 5	防卫省
+T3	Time 5 8	24日
+T4	Time 14 18	当天上午
+T5	Location 19 21	东海
+T6	Country 27 29	日本
+T7	BD 29 34	海上自卫队
+T8	ZB_other 34 45	OP3C图像信息采集机
+T9	BD 46 51	航空自卫队
+T10	ZB_air 51 62	YS11EB电子侦察机
+T11	Country 64 66	中国
+T12	Quantity 69 71	两架
+T13	ZB_air 71 78	苏-27战斗机

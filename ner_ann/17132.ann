@@ -1,0 +1,17 @@
+T1	BD 0 4	中央军委
+T2	Job 4 6	委员
+T3	BD 7 14	中国人民解放军
+T4	Job 14 18	总参谋长
+T5	Person 18 21	陈炳德
+T6	Job 21 23	上将
+T7	Country 24 27	俄罗斯
+T8	Org 27 32	联邦国防部
+T9	Job 32 37	第一副部长
+T10	BD 38 42	武装力量
+T11	Job 42 46	总参谋长
+T12	Person 46 50	马卡罗夫
+T13	Job 50 52	大将
+T14	Time 52 57	22日上午
+T15	Country 58 61	俄罗斯
+T16	Location 61 65	远东地区
+T17	GPE 66 73	哈巴罗夫斯克市

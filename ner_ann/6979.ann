@@ -1,0 +1,12 @@
+T1	GPE 0 1	台
+T2	GPE 5 7	台湾
+T3	Quantity 12 14	首艘
+T4	Time 30 33	14日
+T5	GPE 34 36	宜兰
+T6	GPE 36 38	苏澳
+T7	BD 46 48	台军
+T8	BD 48 50	海军
+T9	Job 50 52	司令
+T10	Person 52 55	陈永康
+T11	Job 55 57	上将
+T12	ZB_ocean 61 65	沱江军舰

@@ -1,0 +1,10 @@
+T1	Country 2 4	日本
+T2	BD 4 9	海上自卫队
+T3	ZB_air 10 16	P3C哨戒机
+T4	BD 17 22	航空自卫队
+T5	ZB_air 23 28	F2战斗机
+T6	BD 29 34	陆上自卫队
+T7	ZB_air 35 45	“阿帕奇”攻击直升机
+T8	ZB_gun 46 55	88式陆基反舰飞弹
+T9	ZB_other 56 67	96式多目的诱导弹系统
+T10	ZB_land 68 73	10式坦克

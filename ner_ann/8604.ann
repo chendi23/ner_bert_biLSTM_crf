@@ -1,0 +1,14 @@
+T1	Country 0 1	中
+T2	ZB_ocean 11 14	广州舰
+T3	ZB_ocean 15 18	郑州舰
+T4	ZB_ocean 22 25	三亚舰
+T5	ZB_ocean 26 29	黄山舰
+T6	ZB_ocean 30 33	大庆舰
+T7	ZB_ocean 41 45	昆仑山舰
+T8	ZB_ocean 51 55	云雾山舰
+T9	ZB_ocean 59 63	军山湖舰
+T10	Quantity 68 70	8艘
+T11	Quantity 77 79	2艘
+T12	ZB_air 84 91	歼-11B战机
+T13	ZB_air 92 96	飞豹战机
+T14	BD 115 120	海军陆战队

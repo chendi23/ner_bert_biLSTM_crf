@@ -1,0 +1,12 @@
+T1	Country 0 1	俄
+T2	Org 1 5	国家杜马
+T3	Org 5 7	国防
+T4	Org 7 10	委员会
+T5	Job 10 12	主席
+T6	BD 14 18	黑海舰队
+T7	Job 18 21	司令员
+T8	Person 21 32	弗拉基米尔?卡玛耶多夫
+T9	Media 35 40	《独立报》
+T10	Country 46 49	俄罗斯
+T11	BD 49 51	海军
+T12	Location 56 59	地中海

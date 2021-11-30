@@ -1,0 +1,17 @@
+T1	GPE 2 4	北京
+T2	Time 4 9	6月24日
+T3	Person 13 15	宋轩
+T4	Job 18 22	国务委员
+T5	Job 23 27	国防部长
+T6	Person 27 30	梁光烈
+T7	Time 30 32	今天
+T8	Location 33 37	八一大楼
+T9	GPE 41 42	京
+T10	Quantity 44 47	第十次
+T11	Country 47 48	中
+T12	Country 48 49	美
+T13	Org 49 52	国防部
+T14	Country 57 59	美国
+T15	Org 59 62	国防部
+T16	Job 62 65	副部长
+T17	Person 65 69	弗卢努瓦

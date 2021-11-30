@@ -1,0 +1,9 @@
+T1	ZB_air 2 7	A400M
+T2	Country 14 16	美国
+T3	BD 16 18	空军
+T4	Country 28 29	法
+T5	Country 29 30	德
+T6	Quantity 30 32	两国
+T7	Org 35 43	洛克希德马丁公司
+T8	ZB_air 44 52	C-130运输机
+T9	ZB_air 59 85	C-160 Transall transport飞机

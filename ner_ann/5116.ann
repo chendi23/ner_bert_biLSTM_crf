@@ -1,0 +1,17 @@
+T1	Org 0 4	黄埔军校
+T2	Party 19 20	党
+T3	Job 20 22	代表
+T4	Person 22 25	廖仲恺
+T5	Org 26 29	政治部
+T6	Job 29 31	主任
+T7	Person 31 34	戴季陶
+T8	Person 37 40	张申府
+T9	Person 48 51	张申府
+T10	Quantity 53 56	15人
+T11	Person 64 67	周恩来
+T12	Person 68 69	张
+T13	Person 71 74	周恩来
+T14	Location 78 80	欧洲
+T15	Org 92 96	黄埔军校
+T16	Org 96 99	政治部
+T17	Job 99 101	主任

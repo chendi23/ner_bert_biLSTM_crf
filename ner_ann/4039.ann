@@ -1,0 +1,11 @@
+T1	Country 0 2	美国
+T2	BD 2 4	海军
+T3	BD 4 8	水面部队
+T4	Job 8 10	司令
+T5	Person 10 16	汤姆?科普曼
+T6	BD 16 18	海军
+T7	Job 18 20	中将
+T8	GPE 21 27	加利福尼亚州
+T9	GPE 28 31	圣迭戈
+T10	ZB_ocean 41 46	‘自由’号
+T11	Country 51 53	中国
